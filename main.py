@@ -13,7 +13,7 @@ client = mqtt.Client()
 
 def yogg_mage():
 	decktemplate = ['[(38418, 2),', '(52639, 2),', '(52706, 2),', '(38505, 1),', '(43419, 1),']
-	data = pd.read_csv('hey.csv')
+	data = pd.read_csv('hearth.csv')
 	mage_spells = data.loc[(data['Type'] == 1) & (data['Minion'] == 0) & (data['Legendary'] == 0)]
 	ID = mage_spells['Card ID']
 	spell_value = ID.values.tolist()
