@@ -5,13 +5,12 @@ from hearthstone.deckstrings import Deck
 from hearthstone.enums import FormatType
 import random
 import os
-import pyperclip
 
 
 def yogg_mage():
 	decktemplate = ['[(38418, 2),', '(52639, 2),', '(52706, 2),', '(38505, 1),', '(43419, 1),']
 	fakedeck = [38418, 52639, 52706, 38505, 43419]
-	data = pd.read_csv('hey.csv')
+	data = pd.read_csv('hearth.csv')
 	mage_spells = data.loc[(data['Type'] == 1) & (data['Minion'] == 0) & (data['Legendary'] == 0)]
 	ID = mage_spells['Card ID']
 	spell_value = ID.values.tolist()
@@ -34,5 +33,4 @@ def yogg_mage():
 	deckcode = deck.as_deckstring
 	cmd = "mosquitto_pub -h '192.168.5.202' -t 'hearthstone' -m '%s'" % deckcode
 	os.system(cmd)
-	pyperclip.copy(deck)
 yogg_mage()
