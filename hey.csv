@@ -1,0 +1,1985 @@
+Name,Cost,Attack,Health,Card ID,Minion,Type,Legendary
+Demonfuse,2,0,0,2535,0,7,0
+Void Crusher,6,5,4,2537,1,7,0
+Flame Lance,5,0,0,2539,0,1,0
+Effigy,3,0,0,2541,0,1,0
+Polymorph: Boar,3,0,0,2542,0,1,0
+Coldarra Drake,6,6,6,2544,1,1,0
+Fallen Hero,2,3,2,2545,1,1,0
+Rhonin,8,7,7,2546,1,1,1
+Dalaran Aspirant,4,3,5,2549,1,1,0
+Spawn of Shadows,4,5,4,2551,1,3,0
+Ram Wrangler,5,3,3,2552,1,5,0
+Holy Champion,4,3,5,2555,1,3,0
+Confessor Paletress,7,5,4,2556,1,3,1
+Convert,2,0,0,2563,0,3,0
+Confuse,2,0,0,2564,0,3,0
+Shadowfiend,3,3,3,2566,1,3,0
+Power Word: Glory,1,0,0,2568,0,3,0
+Twilight Guardian,4,2,6,2569,1,0,0
+Spellslinger,3,3,4,2571,1,1,0
+Arcane Blast,1,0,0,2572,0,1,0
+Anub'arak,9,8,4,2586,1,8,1
+Beneath the Grounds,3,0,0,2587,0,8,0
+Wilfred Fizzlebang,6,4,4,2621,1,7,1
+Wrathguard,2,4,3,2623,1,7,0
+Fearsome Doomguard,7,6,0,2624,0,7,0
+Fist of Jaraxxus,4,0,0,2628,0,7,0
+Dark Bargain,6,0,0,2632,0,7,0
+Buccaneer,1,2,1,2715,1,8,0
+Poisoned Blade,4,1,0,2763,0,8,0
+Shado-Pan Rider,5,3,7,2765,1,8,0
+Cutpurse,2,2,2,2766,1,8,0
+Undercity Valiant,2,3,2,2767,1,8,0
+Shady Dealer,3,4,3,2768,1,8,0
+Burgle,3,0,0,2770,0,8,0
+Tiny Knight of Evil,2,3,2,2777,1,7,0
+Savage Combatant,4,5,4,2780,1,2,0
+Darnassus Aspirant,2,2,3,2782,1,2,0
+Druid of the Saber,2,2,1,2783,1,2,0
+Wildwalker,4,4,4,2786,1,2,0
+Knight of the Wild,7,6,6,2788,1,2,0
+Living Roots,1,0,0,2792,0,2,0
+Dreadsteed,4,1,1,2822,1,7,0
+Astral Communion,4,0,0,2785,0,2,0
+Mulch,3,0,0,2793,0,2,0
+Aviana,10,5,5,2796,1,2,1
+Tuskarr Totemic,3,3,2,2513,1,9,0
+Draenei Totemcarver,4,4,4,2613,1,9,0
+Healing Wave,3,0,0,2612,0,9,0
+Thunder Bluff Valiant,5,3,6,2615,1,9,0
+Charged Hammer,4,2,0,2617,0,9,0
+Elemental Destruction,3,0,0,2620,0,9,0
+Totem Golem,2,3,4,2610,1,9,0
+Ancestral Knowledge,2,0,0,2514,0,9,0
+The Mistcaller,6,4,4,2618,1,9,1
+Flash Heal,1,0,0,2582,0,3,0
+Powershot,3,0,0,2638,0,5,0
+Stablemaster,0,4,2,2639,1,5,0
+King's Elekk,2,3,2,2635,1,5,0
+Brave Archer,1,2,1,2642,1,5,0
+Bear Trap,2,0,0,2641,0,5,0
+Lock and Load,2,0,0,2484,0,5,0
+Ball of Spiders,6,0,0,2483,0,5,0
+Acidmaw,7,4,2,2633,1,5,1
+Dreadscale,3,4,2,2634,1,5,1
+Bash,3,0,0,2729,0,4,0
+King's Defender,3,3,0,2756,0,4,0
+Orgrimmar Aspirant,3,3,3,2711,1,4,0
+Magnataur Alpha,4,5,3,2753,1,4,0
+Bolster,2,0,0,2754,0,4,0
+Sparring Partner,2,3,2,2733,1,4,0
+Skycap'n Kragg,7,4,6,2757,1,0,1
+Alexstrasza's Champion,2,2,3,2758,1,4,0
+Varian Wrynn,10,7,7,2760,1,4,1
+Competitive Spirit,1,0,0,2648,0,6,0
+Seal of Champions,3,0,0,2717,0,6,0
+Warhorse Trainer,3,2,4,2515,1,6,0
+Murloc Knight,4,3,4,2655,1,6,0
+Argent Lance,2,2,0,2720,0,6,0
+Enter the Coliseum,6,0,0,2654,0,6,0
+Mysterious Challenger,6,6,6,2726,1,6,0
+Garrison Commander,2,2,3,2517,1,0,0
+Eadric the Pure,7,3,7,2727,1,6,1
+Lowly Squire,1,1,2,2486,1,0,0
+Dragonhawk Rider,3,3,3,2533,1,0,0
+Lance Carrier,2,1,2,2577,1,0,0
+Maiden of the Lake,4,2,6,2488,1,0,0
+Saboteur,3,4,3,2576,1,0,0
+Argent Horserider,3,2,1,2490,1,0,0
+Mogor's Champion,6,8,5,2491,1,0,0
+Boneguard Lieutenant,2,3,2,2495,1,0,0
+Mukla's Champion,5,4,3,2497,1,0,0
+Tournament Medic,4,1,8,2575,1,0,0
+Ice Rager,3,5,0,2594,0,0,0
+Frigid Snobold,4,2,6,2532,1,0,0
+Flame Juggler,2,2,3,2580,1,0,0
+Silent Knight,3,2,2,2579,1,0,0
+Clockwork Knight,5,5,5,2500,1,0,0
+Tournament Attendee,1,2,1,2499,1,0,0
+Sideshow Spelleater,6,6,5,2573,1,0,0
+Kodorider,6,3,5,2598,1,0,0
+Silver Hand Regent,3,3,3,2503,1,0,0
+Pit Fighter,5,5,0,2521,0,0,0
+Captured Jormungar,7,5,0,2522,0,0,0
+North Sea Kraken,9,9,7,2520,1,0,0
+Tuskarr Jouster,5,5,5,2504,1,6,0
+Injured Kvaldir,1,2,4,2502,1,0,0
+Light's Champion,3,4,3,2259,1,0,0
+Armored Warhorse,4,5,3,2627,1,0,0
+Argent Watchman,2,2,4,2505,1,0,0
+Coliseum Manager,3,2,5,2585,1,0,0
+Refreshment Vendor,4,3,5,2704,1,0,0
+Master Jouster,6,5,6,2507,1,0,0
+Recruiter,5,5,4,2509,1,0,0
+Evil Heckler,4,5,4,2752,1,0,0
+Fencing Coach,3,2,2,2581,1,0,0
+Wyrmrest Agent,2,1,4,2596,1,3,0
+Master of Ceremonies,3,4,2,2493,1,0,0
+Grand Crusader,6,5,5,2510,1,0,0
+Kvaldir Raider,5,4,4,2511,1,0,0
+Frost Giant,10,8,8,2512,1,0,0
+Crowd Favorite,4,4,4,2518,1,0,0
+Gormok the Impaler,4,4,4,2724,1,0,1
+Chillmaw,7,6,6,2682,1,0,1
+Bolf Ramshield,6,3,9,2595,1,0,1
+Icehowl,9,10,10,2725,1,0,1
+Nexus-Champion Saraad,5,4,5,2683,1,0,1
+The Skeleton Knight,6,7,4,2681,1,0,1
+Fjola Lightbane,3,3,4,2748,1,0,1
+Sea Reaver,6,6,7,2723,1,4,0
+Eydis Darkbane,3,3,4,2519,1,0,1
+Justicar Trueheart,6,6,3,2736,1,0,1
+Gadgetzan Jouster,1,1,2,2818,1,0,0
+Skaterbot,1,1,1,47775,1,0,0
+Bronze Gatekeeper,3,1,5,47781,1,0,0
+Goblin Bomb,1,0,2,47837,1,0,0
+Bomb Toss,2,0,0,47840,0,5,0
+Boommaster Flark,7,5,5,47841,1,5,1
+Venomizer,2,2,2,47842,1,5,0
+Fireworks Tech,2,2,1,47855,1,5,0
+Necromechanic,5,3,6,47856,1,5,0
+Weapons Project,2,0,0,47860,0,4,0
+Rusty Recycler,5,2,6,47888,1,0,0
+Biology Project,1,0,0,47887,0,2,0
+Eternium Rover,1,1,3,48691,1,4,0
+Mechanical Whelp,6,2,2,47924,1,0,0
+Rocket Boots,2,0,0,47925,0,4,0
+The Boomship,9,0,0,47928,0,4,1
+Faithful Lumi,1,1,1,48025,1,0,0
+Toxicologist,2,2,2,48034,1,0,0
+Violet Haze,3,0,0,48035,0,8,0
+Academic Espionage,4,0,0,48040,0,8,0
+Elementary Reaction,2,0,0,48051,0,9,0
+Unpowered Mauler,2,2,4,48060,1,0,0
+Eureka!,6,0,0,48799,0,9,0
+Astral Rift,2,0,0,47978,0,1,0
+Spark Drill,6,5,1,47979,1,0,0
+Stargazer Luna,3,2,4,47982,1,1,1
+Dyn-o-matic,5,3,4,48542,1,4,0
+Missile Launcher,6,4,4,48552,1,0,0
+Omega Medic,3,3,4,48099,1,3,0
+Security Rover,6,2,5,48100,1,4,0
+Extra Arms,3,0,0,48101,0,3,0
+Spirit Bomb,2,0,0,48113,0,7,0
+Doubling Imp,3,2,2,48116,1,7,0
+Nethersoul Buster,3,1,5,48298,1,7,0
+Shrink Ray,5,0,0,48644,0,6,0
+Crystalsmith Kangor,2,1,2,48637,1,6,1
+Beryllium Nullifier,7,3,8,48142,1,4,0
+"Dr. Boom, Mad Genius",7,0,30,48146,1,4,1
+Myra's Unstable Element,5,0,0,48487,0,8,1
+Myra Rotspring,5,4,2,48159,1,8,1
+The Storm Bringer,7,0,0,48161,0,9,1
+Spider Bomb,3,2,2,48185,1,5,0
+Unexpected Results,4,0,0,48803,0,1,0
+Astromancer,7,5,5,48195,1,1,0
+Luna's Pocket Galaxy,7,0,0,48198,0,1,1
+"Zerek, Master Cloner",6,5,5,48203,1,3,1
+Soul Infusion,1,0,0,48211,0,7,0
+Piloted Reaper,4,4,3,48223,1,0,0
+Giggling Inventor,7,2,1,48226,1,0,0
+Holomancer,5,3,3,48415,1,0,0
+Pogo-Hopper,2,1,1,48471,1,8,0
+Necrium Blade,3,3,0,48478,0,8,0
+Lab Recruiter,2,3,2,48480,1,8,0
+Storm Chaser,4,3,4,48490,1,9,0
+Omega Defender,4,2,6,48508,1,0,0
+Omega Assembly,1,0,0,48515,0,4,0
+Spring Rocket,3,2,1,48505,1,0,0
+Upgradeable Framebot,2,1,5,48529,1,0,0
+Replicating Menace,4,3,1,48536,1,0,0
+Weaponized Pinata,4,4,3,48518,1,0,0
+Secret Plan,1,0,0,48519,0,5,0
+Juicy Psychmelon,4,0,0,48524,0,2,0
+Supercollider,5,1,0,48526,0,4,0
+Thunderhead,4,3,5,48527,1,9,0
+Electra Stormsurge,3,3,3,48537,1,9,1
+Brainstormer,3,3,1,48544,1,0,0
+Cloakscale Chemist,2,1,2,48566,1,0,0
+Dendrologist,2,2,3,49621,1,2,0
+Landscaping,3,0,0,48607,0,2,0
+Tending Tauren,6,3,4,48609,1,2,0
+Dreampetal Florist,7,4,4,48612,1,2,0
+Mecha'thun,10,10,10,48625,1,0,1
+Flark's Boom-Zooka,8,0,0,48670,0,5,1
+Whirliglider,2,2,1,48700,1,0,0
+Dr. Morrigan,8,5,5,48717,1,7,1
+Flobbidinous Floop,4,3,4,48757,1,2,1
+Cloning Device,2,0,0,48759,0,3,0
+Prismatic Lens,4,0,0,48764,0,6,0
+Goblin Prank,2,0,0,48770,0,5,0
+Cybertech Chip,2,0,0,48772,0,5,0
+Void Analyst,2,2,2,48835,1,7,0
+Floop's Glorious Gloop,1,0,0,48837,0,2,1
+Mecharoo,1,1,1,48886,1,0,0
+Crystallizer,1,1,3,49018,1,0,0
+Damaged Stegotron,6,5,12,49019,1,0,0
+Voltaic Burst,1,0,0,49052,0,9,0
+Shooting Star,1,0,0,49081,0,1,0
+Gloop Sprayer,8,4,4,48744,1,2,0
+Necrium Vial,5,0,0,48748,0,8,0
+Dead Ringer,2,2,1,48929,1,3,0
+Seaforium Bomber,5,5,5,48753,1,0,0
+Ectomancy,6,0,0,48823,0,7,0
+Mulchmuncher,10,8,8,48831,1,2,0
+Power Word: Replicate,5,0,0,49013,0,3,0
+Celestial Emissary,2,2,1,49263,1,1,0
+Explodinator,4,3,2,49161,1,0,0
+Menacing Nimbus,2,2,2,49162,1,9,0
+Bull Dozer,9,9,7,49163,1,0,0
+Microtech Controller,3,2,1,49164,1,0,0
+Omega Agent,5,4,5,49167,1,7,0
+Mechano-Egg,5,0,5,49169,1,6,0
+Spark Engine,2,2,1,49170,1,0,0
+Arcane Dynamo,6,3,4,49171,1,0,0
+E.M.P. Operative,5,3,3,49172,1,0,0
+Omega Mind,2,2,3,49175,1,9,0
+Loose Specimen,5,6,6,49176,1,0,0
+Zilliax,5,3,2,49184,1,0,1
+Electrowright,3,3,3,49188,1,0,0
+Star Aligner,7,7,7,49195,1,0,0
+Harbinger Celestia,4,5,6,49201,1,0,1
+Test Subject,1,0,2,49265,1,3,0
+Augmented Elekk,3,3,4,49269,1,0,0
+Coppertail Imposter,4,4,4,49233,1,0,0
+Wargear,5,5,5,49356,1,0,0
+Blightnozzle Crawler,4,2,4,49361,1,8,0
+Reckless Experimenter,5,4,6,49416,1,3,0
+Zerek's Cloning Gallery,9,0,0,49421,0,3,1
+The Soularium,1,0,0,49423,0,7,1
+Subject 9,5,4,4,49447,1,0,1
+Crazed Chemist,5,4,4,49494,1,8,0
+Research Project,2,0,0,48692,0,1,0
+Meteorologist,6,3,3,48693,1,1,0
+Steel Rager,4,5,1,48890,1,0,0
+Cosmic Anomaly,4,4,3,49045,1,1,0
+Kaboom Bot,3,2,2,49279,1,0,0
+Glow-Tron,1,1,3,48982,1,6,0
+Galvanizer,2,1,2,48983,1,0,0
+Autodefense Matrix,1,0,0,48984,0,6,0
+Crystology,2,0,0,48985,0,6,0
+Glowstone Technician,6,3,4,48989,1,6,0
+Annoy-o-Module,4,2,4,48993,1,6,0
+Kangor's Endless Army,7,0,0,49009,0,6,1
+Demonic Project,2,0,0,50432,0,7,0
+Whizbang the Wonderful,4,4,5,50477,1,0,1
+Raza the Chained,5,5,5,40323,1,3,1
+Wind-up Burglebot,6,5,5,40337,1,0,0
+Hidden Cache,2,0,0,40339,0,5,0
+Street Trickster,3,0,7,40213,1,0,0
+Red Mana Wyrm,5,2,6,40281,1,0,0
+Jinyu Waterspeaker,4,3,6,40285,1,9,0
+Grimestreet Protector,7,6,6,40295,1,6,0
+Kooky Chemist,4,4,4,40289,1,0,0
+Blubber Baron,3,1,1,40294,1,0,0
+Volcanic Potion,3,0,0,40297,0,1,0
+Kabal Lackey,1,2,1,40299,1,1,0
+Hozen Healer,4,2,6,40344,1,0,0
+Felfire Potion,6,0,0,40517,0,7,0
+Weasel Tunneler,1,1,1,40549,1,0,0
+Mistress of Mixtures,1,2,2,41566,1,0,0
+Public Defender,2,0,7,40364,1,4,0
+Smuggler's Run,1,0,0,40371,0,6,0
+Kun the Forgotten King,10,7,7,40416,1,2,1
+Call in the Finishers,4,0,0,40419,0,9,0
+Jade Chieftain,7,5,5,40422,1,9,0
+Finders Keepers,1,0,0,40423,0,9,0
+Alleycat,1,1,1,40426,1,5,0
+Rat Pack,3,2,2,40428,1,5,0
+Grimestreet Informant,2,1,1,40474,1,4,0
+White Eyes,5,5,5,40486,1,9,1
+Small-Time Buccaneer,1,1,1,40608,1,0,0
+Fight Promoter,6,4,4,40617,1,0,0
+Knuckles,5,3,7,40678,1,5,1
+Smuggler's Crate,1,0,0,40679,0,5,0
+Dispatch Kodo,4,2,4,41126,1,5,0
+Shaky Zipgunner,3,3,3,40681,1,5,0
+Piranha Launcher,5,2,4,40683,1,5,0
+Trogg Beastrager,2,3,2,40684,1,5,0
+Sergeant Sally,3,1,1,41118,1,0,1
+Luckydo Buccaneer,6,5,5,40791,1,8,0
+Jade Behemoth,6,3,6,40797,1,2,0
+"Finja, the Flying Star",5,2,4,40803,1,0,1
+Potion of Madness,1,0,0,40373,0,3,0
+Greater Healing Potion,4,0,0,40375,0,3,0
+Drakonid Operative,5,5,6,40378,1,3,0
+Mana Geode,2,2,3,40381,1,3,0
+Blastcrystal Potion,4,0,0,40957,0,7,0
+Fel Orc Soulfiend,3,3,7,40389,1,0,0
+Crystalweaver,4,5,4,40391,1,7,0
+Bloodfury Potion,3,0,0,40393,0,7,0
+Mark of the Lotus,1,0,0,40397,0,2,0
+Pilfered Power,3,0,0,40401,0,2,0
+Celestial Dreamer,3,3,3,40404,1,2,0
+Kabal Chemist,4,3,3,40407,1,1,0
+Potion of Polymorph,3,0,0,40409,0,1,0
+Kazakus,4,3,3,40408,1,1,1
+Greater Arcane Missiles,7,0,0,40411,0,1,0
+Kabal Talonpriest,3,3,4,40432,1,3,0
+Brass Knuckles,4,2,3,40438,1,4,0
+Lotus Assassin,5,5,5,40441,1,8,0
+Shadow Rager,3,5,1,40464,1,8,0
+Patches the Pirate,1,1,1,40465,1,0,1
+Grimestreet Enforcer,5,4,4,40469,1,6,0
+Hobart Grapplehammer,2,2,2,40482,1,4,1
+Backstreet Leper,3,3,1,40492,1,0,0
+Blowgill Sniper,2,2,1,40493,1,0,0
+Big-Time Racketeer,6,1,1,40494,1,0,0
+Kabal Courier,3,2,2,40496,1,1,0
+Grimscale Chum,1,2,1,40531,1,6,0
+Naga Corsair,4,5,4,40889,1,0,0
+Second-Rate Bruiser,5,4,5,40906,1,0,0
+Hired Gun,3,4,3,40911,1,0,0
+Friendly Bartender,2,2,3,40914,1,0,0
+Toxic Sewer Ooze,3,4,3,40921,1,0,0
+Streetwise Investigator,5,4,6,40928,1,0,0
+Kabal Songstealer,5,5,5,40929,1,3,0
+Backroom Bouncer,4,4,4,40931,1,0,0
+Gadgetzan Socialite,2,2,2,40949,1,0,0
+Manic Soulcaster,3,3,4,40935,1,1,0
+Pint-Size Potion,1,0,0,40936,0,3,0
+Dragonfire Potion,6,0,0,40938,0,3,0
+Kabal Trafficker,6,6,6,40940,1,7,0
+Worgen Greaser,4,6,3,40950,1,0,0
+Grook Fu Master,5,3,5,40951,1,0,0
+Bomb Squad,5,2,2,40952,1,0,0
+Doppelgangster,5,2,2,40953,1,0,0
+Burgly Bully,5,4,6,40954,1,0,0
+Mayor Noggenfogger,9,5,4,40955,1,0,1
+Cryomancer,5,5,5,40988,1,1,0
+Madam Goya,6,4,3,41841,1,0,1
+Don Han'Cho,7,5,6,40703,1,4,1
+Inkmaster Solia,7,5,5,40701,1,1,1
+Spiked Hogrider,5,5,5,40700,1,0,0
+Jade Shuriken,2,0,0,40698,0,8,0
+Jade Swarmer,2,1,1,40697,1,8,0
+Gadgetzan Ferryman,2,2,3,40696,1,8,0
+Shadow Sensei,4,4,4,40695,1,8,0
+Devolve,2,0,0,40694,0,9,0
+Lotus Illusionist,5,3,5,40693,1,9,0
+Seadevil Stinger,4,4,2,40691,1,7,0
+Jade Lightning,4,0,0,40455,0,9,0
+Jade Blossom,3,0,0,40523,0,2,0
+Jade Spirit,4,2,3,40527,1,9,0
+Sleep with the Fishes,2,0,0,41414,0,4,0
+Jade Claws,2,2,0,40529,0,9,0
+Krul the Unshackled,9,7,9,40537,1,7,1
+Abyssal Enforcer,7,6,6,40541,1,7,0
+Stolen Goods,2,0,0,40566,0,4,0
+Grimestreet Outfitter,2,1,1,40567,1,6,0
+Grimy Gadgeteer,4,4,3,40568,1,4,0
+Grimestreet Pawnbroker,3,3,3,40569,1,4,0
+Alley Armorsmith,5,2,7,40574,1,4,0
+Meanstreet Marshal,1,1,2,40577,1,6,0
+Kabal Crystal Runner,6,5,5,40583,1,1,0
+"Shaku, the Collector",3,2,3,40905,1,8,1
+Dirty Rat,2,2,6,41567,1,0,0
+Getaway Kodo,1,0,0,40587,0,6,0
+Wrathion,6,4,5,40603,1,0,1
+Auctionmaster Beardo,3,3,4,40605,1,0,1
+"Genzo, the Shark",4,5,4,40607,1,0,1
+Tanaris Hogchopper,4,4,4,40611,1,0,0
+Leatherclad Hogleader,6,6,6,40613,1,0,0
+Lunar Visions,5,0,0,40615,0,2,0
+Wickerflame Burnbristle,3,2,2,40636,1,6,1
+Virmen Sensei,5,4,5,40641,1,2,0
+Daring Reporter,4,3,3,40741,1,0,0
+Lotus Agents,5,5,3,40742,1,9,0
+Grimestreet Smuggler,3,2,4,40743,1,4,0
+Ancient of Blossoms,6,3,8,40744,1,0,0
+Defias Cleaner,6,5,7,40745,1,0,0
+Unlicensed Apothecary,3,5,5,40598,1,7,0
+Aya Blackpaw,6,5,3,40596,1,9,1
+Small-Time Recruits,3,0,0,40634,0,6,0
+I Know a Guy,1,0,0,40839,0,4,0
+Goldshire Footman,1,1,2,922,1,0,0
+Fen Creeper,5,3,6,602,1,0,0
+Holy Nova,5,0,0,841,0,3,0
+Mind Control,10,0,0,8,0,3,0
+Inner Fire,1,0,0,376,0,3,0
+Holy Smite,1,0,0,279,0,3,0
+Mind Vision,1,0,0,1099,0,3,0
+Power Word: Shield,1,0,0,613,0,3,0
+Claw,1,0,0,1050,0,2,0
+Healing Touch,3,0,0,773,0,2,0
+Moonfire,0,0,0,467,0,2,0
+Mark of the Wild,2,0,0,213,0,2,0
+Savage Roar,3,0,0,742,0,2,0
+Swipe,4,0,0,64,0,2,0
+Wild Growth,3,0,0,1124,0,2,0
+Polymorph,4,0,0,77,0,1,0
+Arcane Intellect,3,0,0,555,0,1,0
+Frostbolt,2,0,0,662,0,1,0
+Arcane Explosion,2,0,0,447,0,1,0
+Frost Nova,3,0,0,587,0,1,0
+Mirror Image,1,0,0,1084,0,1,0
+Blizzard,6,0,0,457,0,1,0
+Fireball,4,0,0,315,0,1,0
+Ice Lance,1,0,0,172,0,1,0
+Flamestrike,7,0,0,1004,0,1,0
+Water Elemental,4,3,6,395,1,1,0
+Frost Shock,1,0,0,971,0,9,0
+Ancestral Spirit,2,0,0,404,0,9,0
+Windfury,2,0,0,51,0,9,0
+Ancestral Healing,0,0,0,149,0,9,0
+Fire Elemental,6,6,5,189,1,9,0
+Rockbiter Weapon,2,0,0,239,0,9,0
+Bloodlust,5,0,0,1171,0,9,0
+Far Sight,3,0,0,818,0,9,0
+Shadow Bolt,3,0,0,914,0,7,0
+Blood Imp,1,0,1,469,1,7,0
+Drain Life,3,0,0,919,0,7,0
+Hellfire,4,0,0,950,0,7,0
+Corruption,1,0,0,982,0,7,0
+Dread Infernal,6,6,6,1019,1,7,0
+Voidwalker,1,1,3,48,1,7,0
+Backstab,0,0,0,180,0,8,0
+Cold Blood,2,0,0,268,0,8,0
+Deadly Poison,1,0,0,459,0,8,0
+Sinister Strike,1,0,0,710,0,8,0
+Assassinate,5,0,0,345,0,8,0
+Sprint,7,0,0,630,0,8,0
+Assassin's Blade,5,3,4,421,1,8,0
+Hunter's Mark,2,0,0,141,0,5,0
+Blessing of Might,1,0,0,70,0,6,0
+Guardian of Kings,7,5,6,1068,1,6,0
+Holy Light,2,0,0,291,0,6,0
+Light's Justice,1,1,0,383,0,6,0
+Blessing of Kings,4,0,0,943,0,6,0
+Consecration,4,0,0,476,0,6,0
+Hammer of Wrath,4,0,0,250,0,6,0
+Truesilver Champion,4,4,2,847,1,6,0
+Charge,1,0,0,344,0,4,0
+Rampage,2,0,0,1108,0,4,0
+Heroic Strike,2,0,0,1007,0,4,0
+Fiery War Axe,3,3,2,401,1,4,0
+Execute,2,0,0,785,0,4,0
+Arcanite Reaper,5,5,2,304,1,4,0
+Cleave,2,0,0,940,0,4,0
+Earthen Ring Farseer,3,3,3,1651,1,0,0
+Magma Rager,3,5,1,1653,1,0,0
+Oasis Snapjaw,4,2,7,1370,1,0,0
+River Crocolisk,2,2,3,1369,1,0,0
+Frostwolf Grunt,2,2,2,41,1,0,0
+Raid Leader,3,2,2,1401,1,0,0
+Wolfrider,3,3,1,289,1,0,0
+Ironfur Grizzly,3,3,3,1182,1,0,0
+Silverback Patriarch,3,1,4,67,1,0,0
+Stormwind Knight,4,2,5,622,1,0,0
+Ironforge Rifleman,3,2,2,339,1,0,0
+Kobold Geomancer,2,2,2,672,1,0,0
+Southsea Deckhand,1,2,1,724,1,0,0
+Gnomish Inventor,4,2,4,308,1,0,0
+Stormpike Commando,5,4,2,413,1,0,0
+Silver Hand Knight,5,4,4,69,1,0,0
+Archmage,6,4,7,525,1,0,0
+Ravenholdt Assassin,7,7,5,134,1,0,0
+Lord of the Arena,6,6,5,157,1,0,0
+Murloc Raider,1,2,1,191,1,0,0
+Young Dragonhawk,1,1,1,641,1,0,0
+Stonetusk Boar,1,1,1,648,1,0,0
+Bloodfen Raptor,2,3,2,216,1,0,0
+Bluegill Warrior,2,2,1,739,1,0,0
+Sen'jin Shieldmasta,4,3,5,635,1,0,0
+Injured Blademaster,3,4,7,1109,1,0,0
+Chillwind Yeti,4,4,5,90,1,0,0
+War Golem,7,7,7,712,1,0,0
+Booty Bay Bodyguard,5,5,4,1140,1,0,0
+Abusive Sergeant,1,1,1,242,1,0,0
+Elven Archer,1,1,1,389,1,0,0
+Razorfen Hunter,3,2,3,257,1,0,0
+Ogre Magi,4,4,4,995,1,0,0
+Boulderfist Ogre,6,6,7,1686,1,0,0
+Core Hound,7,9,5,1687,1,0,0
+Ironbeak Owl,3,2,1,290,1,0,0
+Reckless Rocketeer,6,5,2,445,1,0,0
+Spiteful Smith,5,4,6,61,1,0,0
+Stormwind Champion,7,6,6,753,1,0,0
+Frostwolf Warlord,5,4,4,496,1,0,0
+Venture Co. Mercenary,5,7,6,1122,1,0,0
+Wisp,0,1,1,179,1,0,0
+Ironbark Protector,8,8,8,205,1,2,0
+Blade Flurry,4,0,0,1064,0,8,0
+Shadow Word: Pain,2,0,0,1367,0,3,0
+Northshire Cleric,1,1,3,1650,1,3,0
+Divine Spirit,2,0,0,1361,0,3,0
+Starving Buzzard,5,3,2,1241,1,5,0
+Rafaam's Scheme,3,0,0,51371,0,7,0
+Dr. Boom's Scheme,4,0,0,51372,0,4,0
+Hagatha's Scheme,5,0,0,51373,0,9,0
+Togwaggle's Scheme,1,0,0,51375,0,8,0
+Lazul's Scheme,0,0,0,51376,0,3,0
+Shadowy Figure,2,2,2,51567,1,3,0
+Convincing Infiltrator,5,2,6,51714,1,3,0
+Hench-Clan Shadequill,4,4,7,51715,1,3,0
+Walking Fountain,8,4,8,51722,1,9,0
+Underbelly Angler,2,2,3,51724,1,9,0
+Muckmorpher,5,4,4,51727,1,9,0
+Hecklebot,4,3,8,51733,1,0,0
+Dimensional Ripper,10,0,0,51734,0,4,0
+Clockwork Goblin,3,3,3,51735,1,4,0
+Sweeping Strikes,2,0,0,51737,0,4,0
+Wrenchcalibur,4,3,2,51738,1,4,0
+Blastmaster Boom,7,7,7,51739,1,4,1
+Unsleeping Soul,4,0,0,51847,0,3,0
+The Boom Reaver,10,7,9,52086,1,4,1
+Toxfin,1,1,2,52277,1,0,0
+Travelling Healer,4,3,2,52278,1,0,0
+Spellward Jeweler,3,3,4,52281,1,0,0
+Dalaran Crusader,5,5,4,52285,1,0,0
+Sunreaver Spy,2,2,3,52286,1,0,0
+Hench-Clan Hag,4,3,3,52287,1,0,0
+Safeguard,6,4,5,52288,1,0,0
+Spellbook Binder,2,3,2,52289,1,0,0
+Hench-Clan Sneak,3,3,3,52290,1,0,0
+Arcane Servant,2,2,3,52292,1,0,0
+Violet Spellsword,4,1,6,52295,1,0,0
+Violet Warden,6,4,7,52296,1,0,0
+Desperate Measures,1,0,0,51705,0,6,0
+Bronze Herald,3,3,2,51757,1,6,0
+Dragon Speaker,5,3,5,51761,1,6,0
+Messenger Raven,3,3,2,51943,1,1,0
+Darkest Hour,6,0,0,51966,0,7,0
+Conjurer's Calling,3,0,0,51971,0,1,0
+Magic Dart Frog,2,1,3,51977,1,1,0
+Aranasi Broodmother,6,4,6,52058,1,7,0
+The Forest's Aid,8,0,0,52819,0,2,0
+Crystal Power,1,0,0,51769,0,2,0
+Blessing of the Ancients,3,0,0,51779,0,2,0
+Crystalsong Portal,2,0,0,51781,0,2,0
+Acornbearer,1,2,1,51790,1,2,0
+Lifeweaver,3,2,5,51791,1,2,0
+Lucentbark,8,4,8,51795,1,2,1
+Unidentified Contract,6,0,0,51827,0,8,0
+Marked Shot,4,0,0,52070,0,5,0
+Arcane Fletcher,4,3,3,52072,1,5,0
+Rapid Fire,1,0,0,52076,0,5,0
+Oblivitron,6,3,4,52081,1,5,1
+Nine Lives,3,0,0,52082,0,5,0
+Unleash the Beast,6,0,0,52089,0,5,0
+Vereesa Windrunner,7,5,6,52091,1,5,1
+EVIL Cable Rat,2,1,1,51380,1,0,0
+EVIL Conscripter,2,2,2,52109,1,3,0
+EVIL Miscreant,3,1,5,52111,1,8,0
+Hench-Clan Burglar,4,4,3,52112,1,8,0
+Heistbaron Togwaggle,6,5,5,52114,1,8,1
+Arch-Villain Rafaam,7,7,8,52119,1,7,1
+Swampqueen Hagatha,7,5,5,52409,1,9,1
+Witch's Brew,2,0,0,52421,0,9,0
+Sludge Slurper,1,2,1,52422,1,9,0
+Arcane Watcher,3,5,6,52654,1,0,0
+Unseen Saboteur,6,5,6,52306,1,0,0
+Sunreaver Warmage,5,4,4,52307,1,0,0
+Potion Vendor,1,1,1,52312,1,0,0
+Barista Lynchen,5,4,5,52413,1,0,1
+Azerite Elemental,5,2,7,52415,1,0,0
+Underbelly Ooze,7,3,5,52417,1,0,0
+Proud Defender,4,2,6,52418,1,0,0
+Big Bad Archmage,10,6,6,52420,1,0,0
+Chef Nomi,7,6,6,52434,1,0,1
+Archmage Vargoth,4,2,6,52438,1,0,1
+Heroic Innkeeper,8,4,4,52479,1,0,0
+Jumbo Imp,10,8,8,52480,1,7,0
+Eager Underling,4,2,2,52482,1,7,0
+Portal Overfiend,6,5,6,52486,1,0,0
+Eccentric Scribe,6,6,4,52487,1,0,0
+Lightforged Blessing,2,0,0,52490,0,6,0
+Never Surrender!,1,0,0,52494,0,6,0
+Mysterious Blade,2,2,0,52496,0,6,0
+Commander Rhyssa,3,4,3,52500,1,6,1
+Khadgar,2,2,2,52502,1,1,1
+Kirin Tor Tricaster,4,3,3,52638,1,1,0
+Ray of Frost,1,0,0,52639,0,1,0
+Power of Creation,8,0,0,52640,0,1,0
+Nozari,10,4,12,52685,1,6,1
+Portal Keeper,4,5,2,52707,1,0,0
+Shimmerfly,1,1,1,52894,1,5,0
+Hunting Party,5,0,0,53099,0,5,0
+Batterhead,8,3,12,53251,1,0,0
+Plot Twist,2,0,0,52698,0,7,0
+Mana Cyclone,2,2,2,52706,1,1,0
+Ursatron,3,3,3,52790,1,5,0
+Impferno,3,0,0,52871,0,7,0
+EVIL Genius,2,2,2,52872,1,7,0
+Fel Lord Betrug,8,5,7,52873,1,7,1
+Magic Trick,1,0,0,52991,0,1,0
+Kalecgos,10,4,12,53002,1,1,1
+Soul of the Murloc,2,0,0,52468,0,9,0
+Underbelly Fence,2,2,3,52603,1,8,0
+Vendetta,4,0,0,52606,0,8,0
+Tak Nozwhisker,7,6,6,52616,1,8,1
+Waggle Pick,4,4,2,52617,1,8,0
+Catrina Muerte,8,6,8,52627,1,3,1
+Mass Resurrection,9,0,0,52633,0,3,0
+Scargil,4,4,4,52636,1,9,1
+Call to Adventure,3,0,0,52660,0,6,0
+Daring Escape,1,0,0,52679,0,8,0
+Madame Lazul,3,3,2,52715,1,3,1
+Duel!,5,0,0,52742,0,6,0
+Keeper Stalladris,2,2,3,52809,1,2,1
+Dreamway Guardians,2,0,0,52810,0,2,0
+Dalaran Librarian,2,2,3,52866,1,0,0
+Archivist Elysiana,8,7,7,52870,1,0,1
+Whirlwind Tempest,8,6,6,52902,1,0,0
+Hench-Clan Hogsteed,2,2,1,52935,1,0,0
+Faceless Rager,3,5,1,52936,1,0,0
+Flight Master,3,3,4,52940,1,0,0
+Mana Reservoir,2,0,6,52942,1,0,0
+Recurring Villain,5,3,6,52943,1,0,0
+Mad Summoner,6,4,4,52950,1,0,0
+Jepetto Joybuzz,8,6,6,52954,1,0,1
+Vicious Scraphound,2,2,2,53104,1,4,0
+Burly Shovelfist,9,9,9,53024,1,0,0
+Improve Morale,1,0,0,53124,0,4,0
+Omega Devastator,4,4,5,53138,1,4,0
+Soldier of Fortune,4,5,6,53171,1,0,0
+Magic Carpet,3,1,6,53173,1,0,0
+Exotic Mountseller,7,5,8,53218,1,0,0
+Tunnel Blaster,7,3,7,53249,1,0,0
+Crystal Stag,5,4,4,53179,1,2,0
+Darkscale Healer,5,4,5,582,1,0,0
+Houndmaster,4,4,3,1003,1,5,0
+Timber Wolf,1,1,1,606,1,5,0
+Tundra Rhino,5,2,5,699,1,5,0
+Multi-Shot,4,0,0,292,0,5,0
+Tracking,1,0,0,1047,0,5,0
+Arcane Shot,1,0,0,877,0,5,0
+Gladiator's Longbow,7,5,2,311,1,5,0
+Mind Blast,2,0,0,545,0,3,0
+Lightwarden,1,1,2,1655,1,0,0
+The Black Knight,6,4,5,1656,1,0,1
+Young Priestess,1,2,1,1634,1,0,0
+Big Game Hunter,5,4,2,1657,1,0,0
+Alarm-o-Bot,3,0,3,1658,1,0,0
+Acolyte of Pain,3,1,3,1659,1,0,0
+Argent Squire,1,1,1,757,1,0,0
+Angry Chicken,1,1,1,1688,1,0,0
+Worgen Infiltrator,1,2,1,994,1,0,0
+Voodoo Doctor,1,2,1,132,1,0,0
+Bloodmage Thalnos,2,1,1,749,1,0,1
+King Mukla,3,5,5,1693,1,0,1
+Novice Engineer,2,1,1,284,1,0,0
+Sylvanas Windrunner,6,5,5,1721,1,0,1
+Jungle Panther,3,4,2,921,1,0,0
+Shattered Sun Cleric,3,3,2,608,1,0,0
+Scarlet Crusader,3,3,1,642,1,0,0
+Thrallmar Farseer,3,2,3,765,1,0,0
+Silvermoon Guardian,4,3,3,34,1,0,0
+Dragonling Mechanic,0,2,4,523,1,0,0
+Stranglethorn Tiger,5,5,5,68,1,0,0
+Leper Gnome,1,1,1,658,1,0,0
+Sunwalker,6,4,5,759,1,0,0
+Windfury Harpy,6,4,5,567,1,0,0
+Twilight Drake,4,4,1,1037,1,0,0
+Questing Adventurer,3,2,2,791,1,0,0
+Ancient Watcher,2,4,5,605,1,0,0
+Dark Iron Dwarf,4,4,4,348,1,0,0
+Spellbreaker,4,4,3,754,1,0,0
+Youthful Brewmaster,2,3,2,415,1,0,0
+Coldlight Oracle,3,2,2,1016,1,0,0
+Mana Addict,2,1,3,12,1,0,0
+Ancient Brewmaster,4,5,4,186,1,0,0
+Sunfury Protector,2,2,3,891,1,0,0
+Crazed Alchemist,2,2,2,801,1,0,0
+Old Murk-Eye,4,2,4,736,1,0,1
+Acidic Swamp Ooze,2,3,2,906,1,0,0
+Argent Commander,6,4,2,281,1,0,0
+Pint-Sized Summoner,2,2,2,37,1,0,0
+Secretkeeper,1,1,2,158,1,0,0
+Mad Bomber,2,3,2,762,1,0,0
+Tinkmaster Overspark,3,3,3,570,1,0,1
+Warsong Commander,3,2,3,1009,1,4,0
+Mind Control Tech,3,3,3,734,1,0,0
+Arcane Golem,3,4,4,466,1,0,0
+Cabal Shadow Priest,6,4,5,272,1,3,0
+Defender of Argus,4,2,3,763,1,0,0
+Gadgetzan Auctioneer,6,4,4,932,1,0,0
+Loot Hoarder,2,2,1,251,1,0,0
+Abomination,5,4,4,440,1,0,0
+Lorewalker Cho,2,0,4,1135,1,0,1
+Demolisher,3,1,4,979,1,0,0
+Coldlight Seer,3,2,3,453,1,0,0
+Mountain Giant,12,8,8,993,1,0,0
+Cairne Bloodhoof,6,4,5,420,1,0,1
+Gelbin Mekkatorque,6,6,6,858,1,0,1
+Leeroy Jenkins,5,6,2,559,1,0,1
+Eviscerate,2,0,0,904,0,8,0
+Betrayal,2,0,0,282,0,8,0
+Conceal,1,0,0,990,0,8,0
+Fan of Knives,3,0,0,667,0,8,0
+Noble Sacrifice,1,0,0,584,0,6,0
+Defias Ringleader,2,2,2,201,1,8,0
+Eye for an Eye,1,0,0,462,0,6,0
+Perdition's Blade,3,2,2,391,1,8,0
+SI:7 Agent,3,3,3,1117,1,8,0
+Redemption,1,0,0,140,0,6,0
+Headcrack,3,0,0,708,0,8,0
+Shadowstep,0,0,0,365,0,8,0
+Preparation,0,0,0,1158,0,8,0
+Wrath,2,0,0,836,0,2,0
+Mark of Nature,3,0,0,151,0,2,0
+Soul of the Forest,4,0,0,381,0,2,0
+Power of the Wild,2,0,0,503,0,2,0
+Naturalize,1,0,0,233,0,2,0
+Dire Wolf Alpha,2,2,2,985,1,0,0
+Nourish,6,0,0,95,0,2,0
+Druid of the Claw,5,4,4,692,1,2,0
+Keeper of the Grove,4,2,2,601,1,2,0
+Innervate,0,0,0,254,0,2,0
+Emperor Cobra,3,2,3,1098,1,0,0
+Starfire,6,0,0,823,0,2,0
+Ancient of War,7,5,5,1035,1,2,0
+Icicle,2,0,0,52255,0,1,0
+Tome of Intellect,1,0,0,52262,0,1,0
+Call of the Void,1,0,0,52263,0,7,0
+Pilfer,1,0,0,52264,0,8,0
+Lightning Bolt,1,0,0,505,0,9,0
+Lava Burst,3,0,0,864,0,9,0
+Dust Devil,1,3,1,618,1,9,0
+Totemic Might,0,0,0,830,0,9,0
+Earth Shock,1,0,0,767,0,9,0
+Hex,4,0,0,766,0,9,0
+Stormforged Axe,2,2,3,960,1,9,0
+Feral Spirit,3,0,0,238,0,9,0
+Baron Geddon,7,7,5,336,1,0,1
+Earth Elemental,5,7,8,1141,1,9,0
+Forked Lightning,1,0,0,299,0,9,0
+Unbound Elemental,3,2,4,774,1,9,0
+Lightning Storm,3,0,0,629,0,9,0
+Ethereal Arcanist,4,3,3,1737,1,1,0
+Cone of Cold,4,0,0,430,0,1,0
+Arcane Missiles,1,0,0,564,0,1,0
+Shiv,2,0,0,573,0,8,0
+Pyroblast,10,0,0,1087,0,1,0
+Frost Elemental,6,5,5,512,1,0,0
+Azure Drake,5,4,4,825,1,0,0
+Counterspell,3,0,0,113,0,1,0
+Ice Barrier,3,0,0,621,0,1,0
+Mirror Entity,3,0,0,195,0,1,0
+Ice Block,3,0,0,192,0,1,0
+Ragnaros the Firelord,8,8,8,374,1,0,1
+Felguard,3,3,5,517,1,7,0
+Mortal Coil,1,0,0,1092,0,7,0
+Shadowflame,4,0,0,147,0,7,0
+Void Terror,3,3,3,1221,1,7,0
+Succubus,2,4,3,592,1,7,0
+Soulfire,1,0,0,974,0,7,0
+Siphon Soul,6,0,0,1100,0,7,0
+Doomguard,5,5,7,631,1,7,0
+Twisting Nether,8,0,0,859,0,7,0
+Pit Lord,4,5,6,783,1,7,0
+Summoning Portal,4,0,4,969,1,7,0
+Power Overwhelming,1,0,0,846,0,7,0
+Sense Demons,3,0,0,860,0,7,0
+Flame Imp,1,3,2,1090,1,7,0
+Bane of Doom,5,0,0,23,0,7,0
+Lord Jaraxxus,9,3,15,777,1,7,1
+Silence,0,0,0,1189,0,3,0
+Shadow Madness,4,0,0,220,0,3,0
+Lightspawn,4,5,5,886,1,3,0
+Thoughtsteal,3,0,0,30,0,3,0
+Lightwell,2,0,5,797,1,3,0
+Mindgames,4,0,0,145,0,3,0
+Divine Favor,3,0,0,679,0,6,0
+Prophet Velen,7,7,7,9,1,3,1
+Lay on Hands,8,0,0,594,0,6,0
+Blessed Champion,5,0,0,1522,0,6,0
+Humility,1,0,0,854,0,6,0
+Argent Protector,2,2,2,1022,1,6,0
+Blessing of Wisdom,1,0,0,1373,0,6,0
+Holy Wrath,5,0,0,435,0,6,0
+Sword of Justice,3,1,5,643,1,6,0
+Hand of Protection,1,0,0,727,0,6,0
+Repentance,1,0,0,232,0,6,0
+Aldor Peacekeeper,3,3,3,1167,1,6,0
+Tirion Fordring,8,6,6,890,1,6,1
+Avenging Wrath,6,0,0,1174,0,6,0
+Tauren Warrior,3,2,3,45,1,0,0
+Slam,2,0,0,1074,0,4,0
+Battle Rage,2,0,0,400,0,4,0
+Amani Berserker,2,2,3,790,1,0,0
+Mogu'shan Warden,4,1,7,700,1,0,0
+Arathi Weaponsmith,4,3,3,538,1,4,0
+Gurubashi Berserker,5,2,7,768,1,0,0
+Whirlwind,1,0,0,636,0,4,0
+Armorsmith,2,1,4,596,1,4,0
+Shieldbearer,1,0,4,866,1,0,0
+Brawl,5,0,0,75,0,4,0
+Mortal Strike,4,0,0,804,0,4,0
+Upgrade!,1,0,0,511,0,4,0
+Shield Slam,1,0,0,546,0,4,0
+Gorehowl,7,7,1,810,1,4,0
+Raging Worgen,3,3,3,1155,1,0,0
+Grommash Hellscream,8,4,9,338,1,4,1
+Murloc Tidehunter,2,2,1,976,1,0,0
+Murloc Warleader,3,3,3,1063,1,0,0
+Grimscale Oracle,1,1,1,510,1,0,0
+Murloc Tidecaller,1,1,2,475,1,0,0
+Patient Assassin,2,1,1,1133,1,8,0
+Scavenging Hyena,2,2,2,1281,1,5,0
+Misdirection,2,0,0,1091,0,5,0
+Savannah Highmane,6,6,5,1261,1,5,0
+Eaglehorn Bow,3,3,2,1662,1,5,0
+Explosive Shot,5,0,0,394,0,5,0
+Unleash the Hounds,3,0,0,1243,0,5,0
+Kill Command,3,0,0,296,0,5,0
+King Krush,9,8,8,1144,1,5,1
+Flare,2,0,0,896,0,5,0
+Bestial Wrath,1,0,0,903,0,5,0
+Snake Trap,2,0,0,455,0,5,0
+Harvest Golem,3,2,3,778,1,0,0
+Nat Pagle,2,0,4,1147,1,0,1
+Harrison Jones,5,5,4,912,1,0,1
+Archmage Antonidas,7,5,7,1080,1,1,1
+Nozdormu,9,8,8,411,1,0,1
+Alexstrasza,9,8,8,581,1,0,1
+Onyxia,9,8,8,363,1,0,1
+Malygos,9,4,12,436,1,0,1
+Faceless Manipulator,5,3,3,531,1,0,0
+Flametongue Totem,3,0,3,1008,1,9,0
+Doomhammer,5,2,8,352,1,9,0
+Bite,4,0,0,577,0,2,0
+Force of Nature,5,0,0,493,0,2,0
+Ysera,9,4,12,1186,1,0,1
+Cenarius,9,5,8,36,1,2,1
+Mana Tide Totem,3,0,3,513,1,9,0
+The Beast,6,9,7,962,1,0,1
+Savagery,1,0,0,481,0,2,0
+Sap,2,0,0,461,0,8,0
+Dalaran Mage,3,1,4,175,1,0,0
+Priestess of Elune,6,5,4,424,1,0,0
+Ancient Mage,4,2,5,915,1,0,0
+Sea Giant,10,8,8,211,1,0,0
+Windspeaker,4,3,3,178,1,9,0
+Blood Knight,3,3,3,755,1,0,0
+Auchenai Soulpriest,4,3,5,237,1,3,0
+Nightblade,5,4,4,670,1,0,0
+Vaporize,3,0,0,286,0,1,0
+Cult Master,4,4,2,811,1,0,0
+Demonfire,2,0,0,1142,0,7,0
+Imp Master,3,1,5,926,1,0,0
+Cruel Taskmaster,2,2,2,285,1,4,0
+Frothing Berserker,3,2,4,654,1,4,0
+Shield Block,3,0,0,1023,0,4,0
+Inner Rage,0,0,0,22,0,4,0
+Sorcerer's Apprentice,2,3,2,614,1,1,0
+Snipe,2,0,0,814,0,5,0
+Explosive Trap,2,0,0,585,0,5,0
+Freezing Trap,2,0,0,519,0,5,0
+Kirin Tor Mage,3,4,3,748,1,1,0
+Edwin VanCleef,3,2,2,306,1,8,1
+Illidan Stormrage,6,7,5,556,1,0,1
+Mana Wraith,2,2,2,715,1,0,0
+Deadly Shot,3,0,0,1093,0,5,0
+Equality,4,0,0,756,0,6,0
+Molten Giant,20,8,8,1372,1,0,0
+Shadow Word: Death,3,0,0,1363,0,3,0
+Temple Enforcer,6,6,6,1364,1,3,0
+Holy Fire,6,0,0,1365,0,3,0
+Shadowform,3,0,0,1368,0,3,0
+Mass Dispel,4,0,0,1366,0,3,0
+Rabid Worgen,3,3,3,46650,1,4,0
+Arcane Keysmith,4,2,2,46654,1,1,0
+Worgen Abomination,7,6,6,46655,1,0,0
+Deranged Doctor,8,8,8,46656,1,0,0
+Cauldron Elemental,8,7,7,46658,1,0,0
+Furious Ettin,7,5,9,46659,1,0,0
+Darkmire Moonkin,7,2,8,46660,1,0,0
+Mossy Horror,6,2,7,46667,1,0,0
+Mad Hatter,4,3,2,46674,1,0,0
+Emeriss,10,8,8,46678,1,5,1
+Gloom Stag,5,2,6,46680,1,2,0
+Holy Water,5,0,0,46694,0,3,0
+Chameleos,1,1,1,46706,1,3,1
+Vicious Scalehide,2,1,3,46710,1,0,0
+Sound the Bells!,2,0,0,46713,0,6,0
+Cinderstorm,3,0,0,46715,0,1,0
+Blackhowl Gunspire,7,3,8,46721,1,4,1
+Redband Wasp,2,1,3,46725,1,4,0
+Quartz Elemental,5,5,8,46737,1,3,0
+Druid of the Scythe,3,2,2,46859,1,2,0
+Nightscale Matriarch,7,4,9,46862,1,3,0
+Fiendish Circle,4,0,0,46864,0,7,0
+Azalina Soulthief,7,3,3,46874,1,0,1
+Duskhaven Hunter,3,2,5,46596,1,5,0
+Pumpkin Peasant,3,2,4,46598,1,0,0
+Gilnean Royal Guard,8,3,8,46601,1,0,0
+Rebuke,2,0,0,46621,0,6,0
+Phantom Militia,3,2,4,46634,1,0,0
+Ravencaller,3,2,1,46661,1,0,0
+Tanglefur Mystic,3,3,4,46665,1,0,0
+Hagatha the Witch,8,0,30,46887,1,9,1
+Cheap Shot,2,0,0,46897,0,8,0
+Bewitched Guardian,5,4,1,46903,1,2,0
+Duskbat,3,2,4,46904,1,7,0
+Mistwraith,4,3,5,46908,1,8,0
+Lost Spirit,2,1,1,46950,1,0,0
+Ratcatcher,3,2,2,46936,1,7,0
+Wing Blast,4,0,0,46940,0,5,0
+Wyrmguard,7,3,11,46988,1,0,0
+Felsoul Inquisitor,4,1,6,46991,1,0,0
+Swift Messenger,4,2,6,46992,1,0,0
+Spellshifter,2,1,4,46994,1,0,0
+Murkspark Eel,2,2,3,46996,1,9,0
+Witch's Apprentice,1,0,1,46998,1,9,0
+Hench-Clan Thug,3,3,3,47014,1,0,0
+Deadly Arsenal,6,0,0,47016,0,4,0
+Dark Possession,1,0,0,47033,0,7,0
+Ghostly Charger,5,3,4,47051,1,6,0
+Darius Crowley,5,4,4,47053,1,4,1
+Book of Specters,2,0,0,47054,0,1,0
+"Toki, Time-Tinker",6,5,5,47055,1,1,1
+Wispering Woods,4,0,0,47063,0,2,0
+Cursed Castaway,6,5,3,47071,1,8,0
+Swamp Leech,1,2,1,47072,1,0,0
+Blackwald Pixie,3,3,4,47077,1,0,0
+Vilebrood Skitterer,5,1,3,47078,1,5,0
+Deathweb Spider,5,4,6,47085,1,7,0
+Witching Hour,3,0,0,47117,0,2,0
+Rat Trap,2,0,0,47128,0,5,0
+Countess Ashmore,7,6,6,47131,1,0,1
+Town Crier,1,1,2,47133,1,4,0
+Sandbinder,4,2,4,47134,1,0,0
+Totem Cruncher,4,2,3,47138,1,9,0
+Witchwood Piper,4,3,3,47142,1,0,0
+Earthen Might,2,0,0,47152,0,9,0
+Silver Sword,8,3,0,47201,0,6,0
+Tess Greymane,8,6,6,47211,1,8,1
+Scaleworm,4,4,4,47241,1,0,0
+Toxmonger,4,2,4,47256,1,5,0
+Hunting Mastiff,2,2,1,47930,1,5,0
+Witchwood Imp,1,1,1,47262,1,7,0
+Voodoo Doll,3,1,1,47287,1,0,0
+Splitting Festeroot,8,4,4,47292,1,0,0
+Glinda Crowskin,6,3,7,47295,1,7,1
+Dollmaster Dorian,5,2,6,47298,1,0,1
+Lifedrinker,4,3,3,47343,1,0,0
+Witchwood Grizzly,5,3,12,47346,1,0,0
+Night Prowler,4,3,3,47348,1,0,0
+Bellringer Sentry,4,3,4,47405,1,6,0
+Cathedral Gargoyle,2,2,2,47416,1,6,0
+Ferocious Howl,3,0,0,47423,0,2,0
+Curio Collector,5,4,4,47429,1,1,0
+Bonfire Elemental,5,5,5,47438,1,1,0
+Clockwork Automaton,5,4,4,47439,1,0,0
+Chief Inspector,5,4,6,47458,1,0,0
+Houndmaster Shaw,4,3,6,47488,1,5,1
+Woodcutter's Axe,2,2,2,47511,1,4,0
+Warpath,2,0,0,47515,0,4,0
+Festeroot Hulk,5,2,7,47516,1,4,0
+Splintergraft,8,8,8,47520,1,2,1
+Divine Hymn,2,0,0,47549,0,3,0
+Witchwood Apple,2,0,0,47553,0,2,0
+Vex Crow,4,3,3,47554,1,1,0
+Curse of Weakness,2,0,0,47555,0,7,0
+Rotten Applebaum,5,4,5,47557,1,0,0
+Spectral Cutlass,4,2,2,47594,1,8,0
+Face Collector,3,2,2,47599,1,8,1
+Ghost Light Angler,2,2,2,47600,1,9,0
+Walnut Sprite,3,3,3,47602,1,0,0
+Nightmare Amalgam,3,3,4,49502,1,0,0
+Muck Hunter,5,5,8,47606,1,0,0
+Marsh Drake,3,5,4,47607,1,0,0
+Paragon of Light,3,2,5,47614,1,6,0
+WANTED!,4,0,0,47625,0,8,0
+Archmage Arugal,2,2,2,47692,1,1,1
+Genn Greymane,6,6,5,47693,1,0,1
+Blood Witch,4,3,6,47694,1,7,0
+Prince Liam,5,5,5,47696,1,6,1
+Pick Pocket,2,0,0,47799,0,8,0
+Duskfallen Aviana,5,3,7,47819,1,2,1
+Snap Freeze,2,0,0,47821,0,1,0
+Militia Commander,4,2,5,47825,1,4,0
+Coffin Crasher,6,6,5,47836,1,3,0
+Bogshaper,7,4,8,47873,1,9,0
+Unpowered Steambot,4,0,9,47895,1,0,0
+Vivid Nightmare,3,0,0,48002,0,3,0
+Baleful Banker,2,2,2,48039,1,0,0
+Swamp Dragon Egg,1,0,3,48106,1,0,0
+The Glass Knight,4,4,3,48107,1,6,1
+Witch's Cauldron,3,0,4,48110,1,0,0
+Shudderwock,9,6,6,48111,1,9,1
+Lord Godfrey,7,4,4,48156,1,7,1
+Baku the Mooneater,9,7,8,48158,1,0,1
+Blink Fox,3,3,3,48199,1,8,0
+Dire Frenzy,4,0,0,48201,0,5,0
+Forest Guide,4,1,6,48286,1,2,0
+Squashling,2,2,1,48360,1,3,0
+Blazing Invocation,1,0,0,48393,0,9,0
+Glitter Moth,5,4,4,48444,1,3,0
+Black Cat,3,3,3,48445,1,1,0
+Lady in White,6,5,5,48560,1,3,1
+Cutthroat Buccaneer,3,2,4,48585,1,8,0
+Hidden Wisdom,1,0,0,48832,0,6,0
+Carrion Drake,5,3,7,48902,1,5,0
+Flamecannon,2,0,0,1927,0,1,0
+Snowchugger,2,2,3,1928,1,1,0
+Unstable Portal,2,0,0,1929,0,1,0
+Goblin Blastmage,4,5,4,1934,1,1,0
+Echo of Medivh,4,0,0,1941,0,1,0
+Mechwarper,2,2,3,1940,1,0,0
+Flame Leviathan,7,7,7,1939,1,1,1
+Lightbomb,6,0,0,1938,0,3,0
+Shadowbomber,1,2,1,1937,1,3,0
+Velen's Chosen,3,0,0,1935,0,3,0
+Shrinkmeister,2,3,2,1936,1,3,0
+Light of the Naaru,1,0,0,1933,0,3,0
+Cogmaster,1,1,2,1932,1,0,0
+Vol'jin,5,6,2,1931,1,3,1
+Darkbomb,2,0,0,2093,0,7,0
+Fel Reaver,5,8,8,1982,1,0,0
+Call Pet,2,0,0,2094,0,5,0
+Mistress of Pain,2,1,4,2172,1,7,0
+Demonheart,5,0,0,1985,0,7,0
+Fel Cannon,4,3,5,1997,1,7,0
+Mal'Ganis,9,9,7,1986,1,7,1
+Tinker's Sharpsword Oil,4,0,0,2095,0,8,0
+Goblin Auto-Barber,2,3,2,1988,1,8,0
+Cogmaster's Wrench,3,1,3,1989,1,8,0
+One-eyed Cheat,2,4,1,1990,1,8,0
+Feign Death,2,0,0,1991,0,5,0
+Iron Sensei,3,2,2,1992,1,8,0
+Trade Prince Gallywix,6,5,8,1993,1,8,1
+Ancestor's Call,4,0,0,1998,0,9,0
+Anodized Robo Cub,2,2,2,2096,1,2,0
+Recycle,6,0,0,1995,0,2,0
+Grove Tender,3,2,4,2225,1,2,0
+Tree of Life,9,0,0,2001,0,2,0
+Mech-Bear-Cat,6,7,6,2002,1,2,0
+Malorne,7,9,7,2003,1,2,1
+Powermace,3,3,2,2004,1,9,0
+Whirling Zap-o-matic,2,3,2,2005,1,9,0
+Crackle,2,0,0,2006,0,9,0
+Vitality Totem,2,0,3,2007,1,9,0
+Siltfin Spiritwalker,4,2,5,2008,1,9,0
+Dark Wispers,6,0,0,2009,0,2,0
+Neptulon,7,7,7,2010,1,9,1
+Glaivezooka,2,2,2,2011,1,5,0
+Spider Tank,3,3,4,2012,1,0,0
+Imp-losion,4,0,0,2013,0,7,0
+King of Beasts,5,2,6,2014,1,5,0
+Sabotage,4,0,0,2015,0,8,0
+Metaltooth Leaper,3,3,3,2016,1,5,0
+Gahz'rilla,7,6,9,2017,1,5,1
+Bouncing Blade,3,0,0,2018,0,4,0
+Warbot,1,1,3,2019,1,4,0
+Crush,7,0,0,2020,0,4,0
+Shieldmaiden,6,5,5,2021,1,4,0
+Ogre Warmaul,3,4,3,2022,1,4,0
+Screwjank Clunker,4,2,5,2023,1,4,0
+Iron Juggernaut,6,6,5,2024,1,4,1
+Seal of Light,2,0,0,2025,0,6,0
+Shielded Minibot,2,2,2,2026,1,6,0
+Coghammer,3,2,3,2027,1,6,0
+Quartermaster,5,2,5,2028,1,6,0
+Muster for Battle,3,0,0,2029,0,6,0
+Cobalt Guardian,5,6,3,2030,1,6,0
+Bolvar Fordragon,5,1,7,2031,1,6,1
+Puddlestomper,2,3,2,2032,1,0,0
+Ogre Brute,3,4,4,2033,1,0,0
+Dunemaul Shaman,4,5,4,2034,1,9,0
+Stonesplinter Trogg,2,2,3,2035,1,0,0
+Burly Rockjaw Trogg,4,3,5,2036,1,0,0
+Antique Healbot,5,3,3,2037,1,0,0
+Salty Dog,5,7,4,2038,1,0,0
+Lost Tallstrider,4,5,4,2039,1,0,0
+Shadowboxer,2,2,3,2040,1,3,0
+Cobra Shot,5,0,0,2041,0,5,0
+Kezan Mystic,4,4,3,2042,1,0,0
+Ship's Cannon,2,2,3,2043,1,0,0
+Explosive Sheep,2,1,1,2044,1,0,0
+Anima Golem,6,9,9,2045,1,7,0
+Mechanical Yeti,4,4,5,2046,1,0,0
+Force-Tank MAX,8,7,7,2047,1,0,0
+Druid of the Fang,5,4,4,2048,1,2,0
+Gilblin Stalker,2,2,3,2049,1,0,0
+Clockwork Gnome,1,2,1,2050,1,0,0
+Upgraded Repair Bot,5,5,5,2051,1,3,0
+Flying Machine,3,1,4,2052,1,0,0
+Annoy-o-Tron,2,1,2,2053,1,0,0
+Siege Engine,5,5,5,2054,1,4,0
+Steamwheedle Sniper,2,2,3,2055,1,5,0
+Ogre Ninja,6,6,6,2056,1,8,0
+Illuminator,3,2,4,2057,1,0,0
+Madder Bomber,5,5,4,2058,1,0,0
+Arcane Nullifier X-21,4,2,5,2059,1,0,0
+Gnomish Experimenter,3,3,2,2060,1,0,0
+Target Dummy,0,0,2,2061,1,0,0
+Jeeves,4,1,4,2062,1,0,0
+Goblin Sapper,3,2,4,2063,1,0,0
+Piloted Shredder,4,4,3,2064,1,0,0
+Lil' Exorcist,3,2,3,2065,1,0,0
+Gnomeregan Infantry,3,1,4,2066,1,0,0
+Bomb Lobber,5,3,3,2067,1,0,0
+Floating Watcher,5,4,4,2068,1,7,0
+Scarlet Purifier,3,4,3,2069,1,6,0
+Tinkertown Technician,3,3,3,2070,1,0,0
+Micro Machine,2,1,2,2071,1,0,0
+Hobgoblin,3,2,3,2072,1,0,0
+Piloted Sky Golem,6,6,4,2073,1,0,0
+Junkbot,5,1,5,2074,1,0,0
+Enhance-o Mechano,4,3,2,2075,1,0,0
+Recombobulator,2,3,2,2076,1,0,0
+Mini-Mage,4,4,1,2077,1,0,0
+Dr. Boom,7,7,7,2078,1,0,1
+Mimiron's Head,5,4,5,2079,1,0,1
+Mogor the Ogre,6,7,6,2080,1,0,1
+Foe Reaper 4000,8,6,9,2081,1,0,1
+Sneed's Old Shredder,8,5,7,2082,1,0,1
+Toshley,6,5,7,2083,1,0,1
+Mekgineer Thermaplugg,9,9,7,2084,1,0,1
+Gazlowe,6,3,6,2085,1,0,1
+Troggzor the Earthinator,7,6,6,2086,1,0,1
+Blingtron 3000,5,3,4,2087,1,0,1
+Hemet Nesingwary,5,6,3,2088,1,0,1
+Clockwork Giant,12,8,8,2233,1,0,0
+Wee Spellstopper,4,2,5,2234,1,1,0
+Soot Spewer,3,3,3,2249,1,1,0
+Phantom Freebooter,4,3,3,42327,1,0,0
+Skelemancer,5,2,2,42328,1,0,0
+Exploding Bloatbat,4,2,1,42320,1,5,0
+Snowflipper Penguin,0,1,1,42338,1,0,0
+Rattling Rascal,4,2,2,42422,1,0,0
+Grim Necromancer,4,2,4,42438,1,0,0
+Bone Drake,6,6,5,42439,1,0,0
+Sunborne Val'kyr,5,5,4,42440,1,0,0
+Cobalt Scalebane,5,5,5,42442,1,0,0
+Night Howler,4,3,4,42445,1,0,0
+Venomancer,5,2,5,42446,1,0,0
+Arrogant Crusader,4,5,2,42462,1,6,0
+Righteous Protector,1,1,1,42467,1,6,0
+Dark Conviction,2,0,0,42469,0,6,0
+Defile,2,0,0,42471,0,7,0
+Fatespinner,5,5,3,42615,1,2,0
+Toxic Arrow,2,0,0,42648,0,5,0
+Webweave,5,0,0,42649,0,2,0
+Druid of the Swarm,2,1,2,42651,1,2,0
+Play Dead,1,0,0,42652,0,5,0
+Spreading Plague,6,0,0,42656,0,2,0
+Drain Soul,2,0,0,42658,0,7,0
+Cryostasis,2,0,0,42676,0,9,0
+Brrrloc,2,2,2,42678,1,9,0
+Mountainfire Armor,3,4,3,42698,1,4,0
+Blood Razor,4,2,2,42700,1,4,0
+Bone Baron,5,5,5,42712,1,8,0
+Vryghoul,3,3,1,42714,1,0,0
+Ice Walker,2,1,3,42716,1,1,0
+Ghastly Conjurer,4,2,6,42718,1,1,0
+Light's Sorrow,4,1,4,42735,1,6,0
+Despicable Dreadlord,5,4,5,42743,1,7,0
+Avalanche,4,0,0,42747,0,9,0
+Gnash,3,0,0,42748,0,2,0
+Drakkari Defender,3,2,8,42750,1,9,0
+Frozen Clone,3,0,0,42754,0,1,0
+Doomed Apprentice,3,3,2,42756,1,1,0
+Ultimate Infestation,10,0,0,42759,0,2,0
+Glacial Mysteries,8,0,0,42760,0,1,0
+Voodoo Hexxer,5,2,7,42762,1,9,0
+Ice Fishing,2,0,0,42763,0,9,0
+Snowfury Giant,11,8,8,42765,1,9,0
+Dead Man's Hand,2,0,0,42766,0,4,0
+Acherus Veteran,1,2,1,42773,1,0,0
+Tuskarr Fisherman,2,2,3,42775,1,0,0
+Fallen Sun Cleric,2,2,1,42777,1,0,0
+Furnacefire Colossus,6,6,6,42779,1,0,0
+Grave Shambler,4,4,4,42780,1,0,0
+Tomb Lurker,5,5,3,42781,1,0,0
+Ticking Abomination,4,5,6,42782,1,0,0
+Venomstrike Trap,2,0,0,42525,0,5,0
+Roll the Bones,2,0,0,42560,0,8,0
+Professor Putricide,4,5,4,42563,1,5,1
+Treachery,3,0,0,42565,0,7,0
+Devour Mind,5,0,0,42566,0,3,0
+Shadow Ascendant,2,2,2,42574,1,3,0
+Acolyte of Agony,3,3,3,42596,1,3,0
+Eternal Servitude,4,0,0,42597,0,3,0
+Obsidian Statue,9,4,8,42598,1,3,0
+Archbishop Benedictus,7,4,6,42633,1,3,1
+Howlfiend,3,3,6,42642,1,7,0
+Deadscale Knight,1,1,1,42663,1,0,0
+Leeching Poison,1,0,0,42665,0,8,0
+Doomerang,1,0,0,42801,0,8,0
+Shadow Essence,6,0,0,42804,0,3,0
+Ice Breaker,3,1,3,42808,1,9,0
+Animated Berserker,1,1,3,42810,1,4,0
+Runeforge Haunter,4,5,3,42819,1,8,0
+Corpse Widow,5,4,6,42822,1,5,0
+Desperate Stand,2,0,0,42824,0,6,0
+Blackguard,6,3,9,42825,1,6,0
+Coldwraith,3,3,4,42836,1,1,0
+Corpse Raiser,5,3,3,42909,1,0,0
+Forge of Souls,2,0,0,42998,0,4,0
+Moorabi,6,4,4,43072,1,9,1
+The Lich King,8,8,8,42818,1,0,1
+Rotface,8,4,6,42630,1,4,1
+Gnomeferatu,2,2,3,42670,1,7,0
+Val'kyr Soulclaimer,3,1,4,42671,1,4,0
+Stitched Tracker,3,2,2,42707,1,5,0
+Bearshark,3,4,3,42711,1,5,0
+Death Revenant,5,3,3,42392,1,4,0
+Saronite Chain Gang,4,2,3,42395,1,0,0
+Deathspeaker,3,2,4,42394,1,0,0
+Wretched Tiller,1,1,1,42398,1,0,0
+Unwilling Sacrifice,3,0,0,42391,0,7,0
+"Thrall, Deathseer",5,0,30,42987,1,9,1
+Happy Ghoul,3,3,3,42783,1,0,0
+Skulking Geist,6,4,6,42784,1,0,0
+Shallow Gravedigger,3,3,1,42785,1,0,0
+Bonemare,8,5,5,42790,1,0,0
+Nerubian Unraveler,6,5,5,42791,1,0,0
+Howling Commander,3,2,2,42948,1,6,0
+Spirit Lash,2,0,0,42992,0,3,0
+Strongshell Scavenger,4,2,3,43022,1,2,0
+Crypt Lord,3,1,6,43025,1,2,0
+Plague Scientist,3,2,3,43028,1,8,0
+Deathaxe Punisher,4,3,3,43029,1,0,0
+Lilian Voss,4,4,5,43031,1,8,1
+Meat Wagon,4,1,4,43051,1,0,0
+Chillblade Champion,4,3,2,43127,1,6,0
+Simulacrum,3,0,0,43193,0,1,0
+Abominable Bowman,7,6,7,43245,1,5,0
+Valeera the Hollow,9,0,30,43392,1,8,1
+Deathstalker Rexxar,6,0,30,43398,1,5,1
+Uther of the Ebon Blade,9,0,30,43406,1,6,1
+Shadowreaper Anduin,8,0,30,43408,1,3,1
+Bloodreaver Gul'dan,10,0,30,43415,1,7,1
+Malfurion the Pestilent,7,0,30,43417,1,2,1
+Frost Lich Jaina,9,0,30,43419,1,1,1
+Scourgelord Garrosh,8,0,30,43423,1,4,1
+Hadronox,9,3,7,43439,1,2,1
+Breath of Sindragosa,1,0,0,43502,0,1,0
+Bring It On!,2,0,0,43505,0,4,0
+Sindragosa,8,8,8,43506,1,1,1
+Blood-Queen Lana'thel,5,1,6,43064,1,7,1
+Embrace Darkness,6,0,0,45308,0,3,0
+Shadowblade,3,3,2,45338,1,8,0
+Prince Keleseth,2,2,2,45340,1,0,1
+Prince Taldaram,3,3,3,45341,1,0,1
+Prince Valanar,4,4,4,45342,1,0,1
+Arfus,4,2,2,45366,1,0,1
+Hyldnir Frostrider,3,4,4,45377,1,0,0
+Spellweaver,6,4,4,45378,1,0,0
+"Bolvar, Fireblood",5,1,7,45392,1,6,1
+Necrotic Geist,6,5,3,45307,1,0,0
+Drakkari Enchanter,3,1,5,45309,1,0,0
+Mindbreaker,3,2,5,45314,1,0,0
+Sanguine Reveler,1,1,1,45321,1,7,0
+Wicked Skeleton,4,1,1,45328,1,0,0
+Bloodworm,5,4,4,45329,1,0,0
+Spectral Pillager,6,5,5,45975,1,8,0
+Keening Banshee,4,5,5,46101,1,0,0
+Corpsetaker,4,3,3,46102,1,0,0
+Tainted Zealot,2,1,1,46103,1,0,0
+Psychic Scream,7,0,0,43112,0,3,0
+Vulgar Homunculus,2,2,4,43121,1,7,0
+Kobold Librarian,1,2,1,43122,1,7,0
+Dark Pact,1,0,0,43128,0,7,0
+Hooked Reaver,4,4,4,43133,1,7,0
+Fal'dorei Strider,4,4,4,43228,1,8,0
+Cavern Shinyfinder,2,3,1,43237,1,8,0
+Kobold Barbarian,3,4,4,43269,1,4,0
+Lesser Amethyst Spellstone,4,0,0,43272,0,7,0
+Bladed Gauntlet,2,0,2,43277,1,4,0
+Barkskin,1,0,0,43282,0,2,0
+Ironwood Golem,4,3,6,43284,1,2,0
+Lesser Jasper Spellstone,1,0,0,43288,0,2,0
+Branching Paths,4,0,0,43294,0,2,0
+Astral Tiger,4,3,5,43304,1,2,0
+Crushing Hand,2,0,0,43322,0,9,0
+Kobold Hermit,2,1,1,43329,1,9,0
+Lesser Sapphire Spellstone,7,0,0,43331,0,9,0
+Sewer Crawler,3,1,1,43345,1,0,0
+Flanking Strike,4,0,0,43357,0,5,0
+Cave Hydra,3,2,4,43358,1,5,0
+Wandering Monster,2,0,0,43359,0,5,0
+Lesser Emerald Spellstone,6,0,0,43363,0,5,0
+Rhok'delar,7,4,2,43369,1,5,1
+Potion of Heroism,2,0,0,43373,0,6,0
+Lesser Pearl Spellstone,2,0,0,43382,0,6,0
+Call to Arms,5,0,0,43384,0,6,0
+Explosive Runes,3,0,0,43407,0,1,0
+Lesser Ruby Spellstone,2,0,0,43414,0,1,0
+Deck of Wonders,5,0,0,43424,0,1,0
+Aluneth,6,0,3,43426,1,1,1
+Scorp-o-matic,2,1,2,43453,1,0,0
+Wax Elemental,1,0,2,43463,1,0,0
+Ebon Dragonsmith,4,3,4,43465,1,0,0
+Corrosive Sludge,5,5,5,43469,1,0,0
+Lone Champion,3,2,4,43473,1,0,0
+Stoneskin Basilisk,3,1,1,43474,1,0,0
+Arcane Tyrant,5,4,4,43483,1,0,0
+Green Jelly,5,3,3,43485,1,0,0
+Dragonslayer,3,4,3,43486,1,0,0
+Toothy Chest,3,0,4,43489,1,0,0
+Sneaky Devil,4,2,2,43493,1,0,0
+Sleepy Dragon,9,4,12,43494,1,0,0
+Hoarding Dragon,4,5,6,43507,1,0,0
+Corridor Creeper,7,2,5,43515,1,0,0
+Furbolg Mossbinder,6,1,1,43517,1,0,0
+Boisterous Bard,3,3,2,43523,1,0,0
+Violet Wurm,8,7,7,43526,1,0,0
+Gravelsnout Knight,1,2,3,43528,1,0,0
+Carnivorous Cube,5,4,6,45195,1,0,0
+Sonya Shadowdancer,3,2,2,45263,1,8,1
+Fungalmancer,5,2,2,45265,1,0,0
+Raven Familiar,2,2,2,45269,1,1,0
+Dragon's Fury,5,0,0,45271,0,1,0
+Silver Vanguard,7,3,3,45287,1,0,0
+Twilight's Call,3,0,0,45353,0,3,0
+Shimmering Courser,4,3,3,46892,1,0,0
+Lesser Mithril Spellstone,7,0,0,45519,0,4,0
+Cheat Death,2,0,0,45520,0,8,0
+Dragon Soul,3,0,0,45528,0,3,1
+Sudden Betrayal,2,0,0,45529,0,8,0
+Elven Minstrel,4,3,2,45531,1,8,0
+Evasion,2,0,0,45535,0,8,0
+Lynessa Sunsorrow,7,1,1,45539,1,6,1
+To My Side!,6,0,0,45546,0,5,0
+Feral Gibberer,1,1,1,45547,1,0,0
+Candleshot,1,1,3,45537,1,5,0
+Arcane Artificer,1,1,2,45590,1,1,0
+Cursed Disciple,4,5,1,45594,1,0,0
+Dire Mole,1,1,3,45707,1,0,0
+Unidentified Elixir,3,0,0,45759,0,3,0
+Unidentified Shield,6,0,0,45775,0,4,0
+Unidentified Maul,3,2,2,45782,1,6,0
+Shroom Brewer,4,4,4,45784,1,0,0
+Possessed Lackey,6,2,2,45820,1,7,0
+Oaken Summons,4,0,0,45828,0,2,0
+Crystal Lion,6,5,5,45833,1,6,0
+Grizzled Guardian,8,3,5,45835,1,2,0
+Trogg Gloomeater,5,1,5,45837,1,0,0
+"Ixlid, Fungal Lord",5,2,4,45859,1,2,1
+Level Up!,6,0,0,45877,0,6,0
+Primal Talismans,3,0,0,45905,0,9,0
+Kobold Apprentice,3,2,1,45929,1,0,0
+Greedy Sprite,3,3,1,45945,1,2,0
+Psionic Probe,1,0,0,45979,0,3,0
+Marin the Fox,8,6,6,45988,1,0,1
+"Grumble, Worldshaker",6,7,7,45995,1,9,1
+Drygulch Jailor,2,1,1,46007,1,6,0
+Reckless Flurry,3,0,0,46026,0,4,0
+Gemstudded Golem,6,5,9,46027,1,4,0
+Drywhisker Armorer,2,2,2,46031,1,4,0
+Voidlord,9,3,9,46056,1,7,0
+Gather Your Party,6,0,0,46058,0,4,0
+Healing Rain,3,0,0,46067,0,9,0
+Guild Recruiter,5,2,4,46069,1,0,0
+Woecleaver,8,3,3,46077,1,4,1
+Kobold Monk,4,3,6,46079,1,0,0
+Hungry Ettin,6,4,10,46082,1,0,0
+Fungal Enchanter,3,3,3,46087,1,0,0
+Rummaging Kobold,3,1,3,46088,1,0,0
+Twig of the World Tree,4,1,5,46107,1,2,1
+Shrieking Shroom,3,1,2,46118,1,0,0
+Benevolent Djinn,3,2,4,46258,1,6,0
+Duskbreaker,4,3,3,45899,1,3,0
+Kobold Illusionist,4,3,3,45936,1,8,0
+Plated Beetle,2,2,3,45930,1,0,0
+Grand Archivist,8,4,7,46032,1,0,0
+"Rin, the First Disciple",6,3,6,46040,1,7,1
+Cataclysm,4,0,0,46286,0,7,0
+Skull of the Man'ari,5,0,3,46299,1,7,1
+Val'anyr,6,4,2,46263,1,6,1
+Lesser Onyx Spellstone,5,0,0,46296,0,8,0
+Unstable Evolution,1,0,0,46303,0,9,0
+The Runespear,8,3,3,46305,1,9,1
+Lesser Diamond Spellstone,7,0,0,46307,0,3,0
+Kathrena Winterwisp,8,6,6,46390,1,5,1
+Zola the Gorgon,3,2,2,46403,1,0,1
+Murmuring Elemental,2,1,1,46432,1,9,0
+Windshear Stormcaller,5,5,5,46440,1,9,0
+Geosculptor Yip,8,4,8,46442,1,4,1
+Seeping Oozeling,6,5,4,46445,1,5,0
+Master Oakheart,9,5,5,46449,1,0,1
+Crushing Walls,7,0,0,46450,0,5,0
+The Darkness,4,20,20,46454,1,0,1
+Twilight Acolyte,3,2,4,46460,1,3,0
+Void Ripper,3,3,3,46461,1,0,0
+Gilded Gargoyle,3,2,2,46495,1,3,0
+Dragoncaller Alanna,9,3,3,46499,1,1,1
+Leyline Manipulator,4,4,5,46541,1,1,0
+Temporus,7,6,6,46544,1,3,1
+Spiteful Summoner,7,4,4,46551,1,0,0
+Dragonhatcher,9,2,4,46557,1,0,0
+King Togwaggle,8,5,5,46589,1,0,1
+Kingsbane,1,1,3,47035,1,8,1
+Sacrificial Pact,0,0,0,163,0,7,0
+Vanish,6,0,0,196,0,8,0
+Kidnapper,6,5,3,287,1,8,0
+Starfall,5,0,0,86,0,2,0
+Ancient of Lore,7,5,5,920,1,2,0
+Al'Akir the Windlord,8,3,5,32,1,9,1
+Kor'kron Elite,4,4,3,28,1,4,0
+Mana Wyrm,2,1,3,405,1,1,0
+Master of Disguise,4,4,4,887,1,8,0
+Captain's Parrot,2,1,1,530,1,0,0
+Hungry Crab,1,1,2,443,1,0,0
+Bloodsail Raider,2,2,3,999,1,0,0
+Knife Juggler,2,2,2,1073,1,0,0
+Wild Pyromancer,2,3,2,1014,1,0,0
+Doomsayer,2,0,7,138,1,0,0
+Dread Corsair,4,3,3,878,1,0,0
+Faerie Dragon,2,3,2,609,1,0,0
+Captain Greenskin,5,5,4,456,1,0,1
+Bloodsail Corsair,1,1,2,997,1,0,0
+Violet Teacher,4,3,5,1029,1,0,0
+Southsea Captain,3,3,3,680,1,0,0
+Millhouse Manastorm,2,4,4,855,1,0,1
+Deathwing,10,12,12,834,1,0,1
+Animal Companion,3,0,0,437,0,5,0
+Commanding Shout,2,0,0,1026,0,4,0
+Master Swordsmith,2,1,3,351,1,0,0
+Gruul,8,7,7,526,1,0,1
+Hogger,6,4,4,640,1,0,1
+Stampeding Kodo,5,3,5,1371,1,0,0
+Vilefin Inquisitor,1,1,3,38227,1,6,0
+Primal Fusion,1,0,0,38262,0,9,0
+Flamewreathed Faceless,4,7,7,38263,1,9,0
+Eternal Sentinel,2,3,2,38265,1,9,0
+Evolve,1,0,0,38266,0,9,0
+Thing from Below,6,5,5,38267,1,9,0
+Hammer of Twilight,5,4,0,38270,0,9,0
+Tentacles for Arms,5,2,2,38279,1,4,0
+Silithid Swarmer,3,3,5,38304,1,0,0
+"Y'Shaarj, Rage Unbound",10,10,10,38312,1,0,1
+Fandral Staghelm,4,3,5,38318,1,2,1
+Infest,3,0,0,38329,0,5,0
+Feral Rage,3,0,0,38334,0,2,0
+Mark of Y'Shaarj,2,0,0,38337,0,2,0
+Forbidden Ancient,1,1,1,38340,1,2,0
+On the Hunt,1,0,0,38377,0,5,0
+Bladed Cultist,1,1,2,38391,1,8,0
+Journey Below,1,0,0,38393,0,8,0
+Thistle Tea,6,0,0,38395,0,8,0
+"Xaril, Poisoned Mind",4,3,2,38403,1,8,1
+Shatter,2,0,0,38407,0,1,0
+Evolved Kobold,4,2,2,38408,1,0,0
+Twilight Flamecaller,3,2,2,38409,1,1,0
+Demented Frostcaller,4,2,4,38412,1,1,0
+Servant of Yogg-Saron,5,5,4,38414,1,1,0
+Cabalist's Tome,5,0,0,38418,0,1,0
+Power Word: Tentacles,5,0,0,38426,0,3,0
+Twilight Darkmender,5,6,5,38429,1,3,0
+Shadow Word: Horror,4,0,0,38433,0,3,0
+Darkspeaker,5,3,6,38436,1,0,0
+Embrace the Shadow,2,0,0,38439,0,3,0
+Darkshire Librarian,2,3,2,38447,1,7,0
+Darkshire Councilman,3,1,5,38452,1,7,0
+Spreading Madness,3,0,0,38456,0,7,0
+Renounce Darkness,2,0,0,38461,0,7,0
+Anomalus,8,8,6,38463,1,1,1
+Cho'gall,7,7,7,38464,1,7,1
+"Mukla, Tyrant of the Vale",6,5,5,38468,1,0,1
+Shifter Zerus,1,1,1,38475,1,0,1
+Twin Emperor Vek'lor,7,4,6,38488,1,0,1
+"N'Zoth, the Corruptor",10,5,7,38496,1,0,1
+"Yogg-Saron, Hope's End",10,7,5,38505,1,0,1
+Nerubian Prophet,6,4,4,38517,1,0,0
+Faceless Behemoth,10,10,10,38521,1,0,0
+Eldritch Horror,8,6,10,38522,1,0,0
+Psych-o-Tron,5,3,4,38526,1,0,0
+Corrupted Healbot,5,6,6,38528,1,0,0
+Ravaging Ghoul,3,3,3,38530,1,4,0
+Aberrant Berserker,4,3,5,38531,1,0,0
+Tentacle of N'Zoth,1,1,1,38532,1,0,0
+Grotesque Dragonhawk,7,5,5,38533,1,0,0
+Bog Creeper,7,6,8,38534,1,0,0
+Bilefin Tidehunter,2,2,1,38538,1,0,0
+Zealous Initiate,1,1,1,38541,1,0,0
+Corrupted Seer,6,2,3,38545,1,0,0
+Disciple of C'Thun,3,2,1,38547,1,0,0
+Blood of The Ancient One,9,9,9,38567,1,0,0
+Faceless Shambler,4,1,1,38569,1,0,0
+Shadow Strike,3,0,0,38578,0,8,0
+Fiery Bat,1,2,1,38584,1,5,0
+Klaxxi Amber-Weaver,4,4,5,38621,1,2,0
+Wisps of the Old Gods,7,0,0,38655,0,2,0
+Validated Doomsayer,5,0,7,38669,1,0,0
+Mire Keeper,4,3,3,38718,1,2,0
+Stormcrack,2,0,0,38724,0,9,0
+Faceless Summoner,6,5,5,38725,1,1,0
+Hallazeal the Ascended,5,4,6,38722,1,9,1
+Call of the Wild,9,0,0,38727,0,5,0
+Infested Wolf,4,3,3,38734,1,5,0
+Bloodhoof Brave,4,2,6,38738,1,4,0
+Malkorok,7,6,5,38739,1,4,1
+Selfless Hero,1,2,1,38740,1,6,0
+Rallying Blade,3,3,2,38745,1,6,0
+Divine Strength,1,0,0,38749,0,6,0
+"Ragnaros, Lightlord",8,8,8,38758,1,6,1
+Darkshire Alchemist,5,4,5,38764,1,3,0
+DOOM!,10,0,0,38770,0,7,0
+Possessed Villager,1,1,1,38774,1,7,0
+Twisted Worgen,2,3,1,38781,1,0,0
+Am'gam Rager,3,1,5,38782,1,0,0
+Infested Tauren,4,2,3,38784,1,0,0
+Eater of Secrets,4,2,4,38792,1,0,0
+Doomcaller,8,7,9,38795,1,0,0
+Spawn of N'Zoth,3,2,2,38797,1,0,0
+Southsea Squidface,4,4,4,38825,1,8,0
+Scaled Nightmare,6,2,8,38832,1,0,0
+Twilight Summoner,4,1,1,38833,1,0,0
+Stand Against Darkness,5,0,0,38843,0,6,0
+Blood Warriors,3,0,0,38848,0,4,0
+C'Thun,10,0,0,38856,0,0,1
+Beckoner of Evil,2,2,3,38859,1,0,0
+Blade of C'Thun,9,4,4,38861,1,8,0
+C'Thun's Chosen,4,4,2,38863,1,0,0
+Twilight Geomancer,2,1,4,38864,1,0,0
+Twilight Elder,3,3,4,38868,1,0,0
+Ancient Harbinger,6,4,6,38873,1,0,0
+Shadowcaster,5,4,4,38876,1,8,0
+Forlorn Stalker,3,4,2,38875,1,5,0
+Dark Arakkoa,6,5,7,38882,1,2,0
+Cult Apothecary,5,4,4,38888,1,0,0
+The Boogeymonster,8,6,7,38895,1,0,1
+Ancient Shieldbearer,7,6,6,38897,1,4,0
+Usher of Souls,5,5,6,38898,1,7,0
+Cult Sorcerer,2,3,2,38900,1,1,0
+Giant Sand Worm,8,8,8,38909,1,5,0
+Princess Huhuran,5,6,5,38910,1,5,1
+Steward of Darkshire,3,3,3,38911,1,6,0
+A Light in the Darkness,2,0,0,38913,0,6,0
+N'Zoth's First Mate,1,1,1,38914,1,4,0
+Addled Grizzly,3,2,2,38916,1,2,0
+Blood To Ichor,1,0,0,38918,0,4,0
+Bloodsail Cultist,3,3,4,38920,1,4,0
+Herald Volazj,6,5,5,38922,1,3,1
+"Deathwing, Dragonlord",10,12,12,38943,1,0,1
+"Hogger, Doom of Elwynn",7,6,6,38944,1,0,1
+Midnight Drake,4,1,4,38957,1,0,0
+Crazed Worshipper,5,3,6,38958,1,0,0
+Blackwater Pirate,4,2,5,38960,1,0,0
+Polluted Hoarder,4,4,2,38961,1,0,0
+Carrion Grub,3,2,5,38985,1,5,0
+Duskboar,2,4,1,39002,1,0,0
+Squirming Tentacle,3,2,4,39003,1,0,0
+Master of Evolution,4,4,5,39008,1,9,0
+Undercity Huckster,2,2,2,39026,1,8,0
+Hooded Acolyte,4,3,6,39033,1,3,0
+Shifting Shade,4,4,3,39034,1,3,0
+Cyclopian Horror,4,3,3,39041,1,0,0
+"Nat, the Darkfisher",2,2,4,39046,1,0,1
+Skeram Cultist,6,7,6,39118,1,0,0
+Soggoth the Slitherer,9,5,9,39119,1,0,1
+Elite Tauren Chieftain,5,5,5,1754,1,0,1
+Half-Time Scavenger,4,3,5,49049,1,0,0
+Totemic Smash,1,0,0,49051,0,9,0
+Ticket Scalper,4,5,3,49066,1,0,0
+Sightless Ranger,5,3,4,49088,1,0,0
+Serpent Ward,2,0,2,49800,1,0,0
+Haunting Visions,3,0,0,49802,0,9,0
+Bog Slosher,3,3,3,49803,1,9,0
+Spirit of the Frog,3,0,3,49804,1,9,0
+Zul'jin,10,0,30,49819,1,5,1
+Bloodsail Howler,2,1,1,49838,1,8,0
+Serrated Tooth,1,1,3,49843,1,8,0
+Gurubashi Hypemon,7,5,7,49847,1,8,0
+Big Bad Voodoo,2,0,0,49853,0,9,0
+Zentimo,3,1,3,49867,1,9,1
+Spirit of the Shark,4,0,3,49972,1,8,0
+Griftah,4,4,5,50009,1,0,1
+Seance,2,0,0,50278,0,3,0
+Headhunter's Hatchet,2,2,2,50608,1,5,0
+The Beast Within,1,0,0,50644,0,5,0
+Raiding Party,3,0,0,50773,0,8,0
+Captain Hooktusk,8,6,3,50774,1,8,1
+Cannon Barrage,6,0,0,50779,0,8,0
+Sand Drudge,3,3,3,50315,1,3,0
+Former Champ,5,1,1,50731,1,0,0
+Stolen Steel,2,0,0,50749,0,8,0
+Walk the Plank,4,0,0,50766,0,8,0
+Spirit of the Raptor,1,0,3,49944,1,2,0
+Ironhide Direhorn,7,7,7,49973,1,2,0
+Savage Striker,2,2,3,49984,1,2,0
+"Gonk, the Raptor",7,4,9,49985,1,2,1
+Predatory Instincts,4,0,0,49994,0,2,0
+Shriek,1,0,0,50002,0,7,0
+Void Contract,8,0,0,50004,0,7,0
+Soulwarden,6,6,6,50006,1,7,0
+Grim Rally,1,0,0,50012,0,7,0
+Spirit of the Bat,2,0,3,50025,1,7,0
+High Priestess Jeklik,4,3,4,50032,1,7,1
+"Hir'eek, the Bat",8,1,1,50034,1,7,1
+Mark of the Loa,4,0,0,50042,0,2,0
+Stampeding Roar,6,0,0,50044,0,2,0
+Blood Troll Sapper,7,5,8,50070,1,7,0
+Mass Hysteria,5,0,0,50071,0,3,0
+Princess Talanji,8,7,5,50082,1,3,1
+"Bwonsamdi, the Dead",7,7,7,50087,1,3,1
+"Shirvallah, the Tiger",25,7,5,49981,1,6,1
+Time Out!,3,0,0,49999,0,6,0
+Farraki Battleaxe,5,3,3,50014,1,6,0
+A New Challenger...,7,0,0,50019,0,6,0
+Immortal Prelate,2,1,3,50022,1,6,0
+Flash of Light,2,0,0,50028,0,6,0
+High Priest Thekal,3,3,4,50126,1,6,1
+Spirit of the Tiger,4,0,3,50031,1,6,0
+Arcanosaur,6,3,3,50121,1,1,0
+Spellzerker,2,2,3,50083,1,0,0
+Scorch,4,0,0,50122,0,1,0
+Pyromaniac,3,3,4,50084,1,1,0
+"Jan'alai, the Dragonhawk",7,4,4,50088,1,1,1
+Blast Wave,5,0,0,50086,0,1,0
+Hex Lord Malacrass,8,5,5,50095,1,1,1
+Spirit of the Dragonhawk,2,0,3,50093,1,1,0
+Devastate,1,0,0,50040,0,4,0
+Emberscale Drake,5,5,5,50049,1,4,0
+Heavy Metal!,6,0,0,50054,0,4,0
+Sul'thraze,6,4,4,50056,1,4,0
+Smolderthorn Lancer,3,3,2,50059,1,4,0
+Spirit of the Rhino,1,0,3,52242,1,4,0
+War Master Voone,4,4,3,50066,1,4,1
+"Akali, the Rhino",8,5,5,50074,1,4,1
+Master's Call,3,0,0,50212,0,5,0
+Treespeaker,5,4,4,50356,1,2,0
+Wardruid Loti,3,1,2,43310,1,2,1
+"Krag'wa, the Frog",6,4,6,50369,1,9,1
+Baited Arrow,5,0,0,50466,0,5,0
+Springpaw,1,1,1,49824,1,5,0
+Bloodscalp Strategist,3,2,4,50471,1,5,0
+Rain of Toads,6,0,0,50547,0,9,0
+Likkim,2,1,3,50550,1,9,0
+Overlord's Whip,3,2,4,50595,1,4,0
+Dragon Roar,2,0,0,50602,0,4,0
+Saronite Taskmaster,1,2,3,50796,1,0,0
+Daring Fire-Eater,1,1,1,50381,1,1,0
+Splitting Image,3,0,0,50230,0,1,0
+Untamed Beastmaster,3,3,4,50491,1,0,0
+Dozing Marksman,2,0,4,50493,1,0,0
+Waterboy,2,2,1,50497,1,0,0
+Grave Horror,12,7,8,50539,1,3,0
+"Gral, the Shark",5,2,2,50775,1,8,1
+Surrender to Madness,3,0,0,50282,0,3,0
+Auchenai Phantasm,2,3,2,50283,1,3,0
+Spirit of the Dead,1,0,3,50352,1,3,0
+Scarab Egg,2,0,2,50372,1,0,0
+Booty Bay Bookie,2,3,3,50374,1,0,0
+Helpless Hatchling,1,1,1,50377,1,0,0
+Gurubashi Chicken,1,1,1,50380,1,0,0
+Sharkfin Fan,2,2,2,50383,1,0,0
+Regeneratin' Thug,4,3,5,50385,1,0,0
+Banana Buffoon,3,2,2,50386,1,0,0
+Cheaty Anklebiter,2,2,1,50391,1,0,0
+Mosh'Ogg Enforcer,8,2,14,50392,1,0,0
+Belligerent Gnome,2,1,4,50393,1,0,0
+Rabble Bouncer,7,2,7,50395,1,0,0
+Gurubashi Offering,1,0,2,50396,1,0,0
+Arena Fanatic,4,2,3,50397,1,0,0
+Murloc Tastyfin,4,3,2,50402,1,0,0
+Arena Patron,5,3,3,50403,1,0,0
+Wartbringer,1,2,1,50405,1,9,0
+Firetree Witchdoctor,2,2,2,50408,1,0,0
+Shieldbreaker,2,2,1,50410,1,0,0
+Arena Treasure Chest,4,0,4,50411,1,0,0
+Dragonmaw Scorcher,5,3,6,50412,1,0,0
+Drakkari Trickster,3,3,4,50414,1,0,0
+Linecracker,7,5,10,50416,1,0,0
+Masked Contender,3,2,4,50421,1,0,0
+Rumbletusk Shaker,4,3,2,50427,1,0,0
+Mosh'Ogg Announcer,5,6,5,50430,1,0,0
+Ice Cream Peddler,4,3,5,50434,1,0,0
+Snapjaw Shellfighter,5,3,8,50437,1,0,0
+Da Undatakah,8,8,5,50443,1,0,1
+"Hakkar, the Soulflayer",10,9,6,50454,1,0,1
+Oondasta,9,7,7,50459,1,0,1
+Bloodclaw,1,2,2,50512,1,6,0
+Zandalari Templar,4,4,4,50514,1,6,0
+Ornery Tortoise,3,3,5,50532,1,0,0
+Amani War Bear,7,5,7,50776,1,0,0
+Reckless Diretroll,3,2,6,50863,1,7,0
+Demonbolt,8,0,0,50991,0,7,0
+Mojomaster Zihi,6,5,5,51136,1,0,1
+Revenge of the Wild,2,0,0,51159,0,5,0
+Crowd Roaster,7,7,4,51816,1,0,0
+Soup Vendor,2,1,4,52931,1,0,0
+"Halazzi, the Lynx",5,3,2,50659,1,5,1
+Spirit of the Lynx,3,0,3,50660,1,5,0
+Pterrordax Hatchling,3,2,2,41076,1,0,0
+Volcanosaur,7,5,6,41120,1,0,0
+Dinosize,8,0,0,41130,0,6,0
+Ravasaur Runt,2,2,2,41137,1,0,0
+Sated Threshadon,7,5,7,41138,1,0,0
+Hydrologist,2,2,2,41139,1,6,0
+Sunkeeper Tarim,6,3,7,41145,1,6,1
+Flame Geyser,2,0,0,41151,0,1,0
+Air Elemental,1,2,1,41152,1,9,0
+Arcanologist,2,2,3,41153,1,1,0
+Steam Surger,4,5,4,41154,1,1,0
+Mirage Caller,3,2,3,41155,1,3,0
+Mana Bind,3,0,0,41158,0,1,0
+Volcano,5,0,0,41159,0,9,0
+Pyros,2,2,2,41162,1,1,1
+Open the Waygate,1,0,0,41168,0,1,1
+Shadow Visions,2,0,0,41169,0,3,0
+Binding Heal,1,0,0,41170,0,3,0
+Crystalline Oracle,1,1,1,41173,1,3,0
+Radiant Elemental,2,2,3,41176,1,3,0
+Curious Glimmerroot,3,3,3,41177,1,3,0
+Tortollan Shellraiser,4,2,6,41180,1,3,0
+Ravenous Pterrordax,0,4,4,41191,1,7,0
+Tar Lurker,5,1,7,41194,1,7,0
+Razorpetal Volley,2,0,0,41207,0,8,0
+Razorpetal Lasher,2,2,2,41208,1,8,0
+Mimic Pod,3,0,0,41212,0,8,0
+Obsidian Shard,4,3,3,41213,1,8,0
+Biteweed,2,1,1,41216,1,8,0
+Vilespine Slayer,5,3,4,41217,1,8,0
+"Sherazin, Corpse Flower",4,5,3,41218,1,8,1
+The Caverns Below,1,0,0,41222,0,8,1
+Tol'vir Stoneshaper,4,3,5,41241,1,0,0
+Giant Mastodon,9,6,10,41242,1,0,0
+Stonehill Defender,3,1,4,41243,1,0,0
+Rockpool Hunter,2,2,3,41245,1,0,0
+Vicious Fledgling,3,3,3,41247,1,0,0
+Eggnapper,3,3,1,41249,1,0,0
+Tortollan Forager,2,2,2,41252,1,2,0
+Frozen Crusher,6,8,8,41253,1,0,0
+Thunder Lizard,3,3,3,41257,1,0,0
+Devilsaur Egg,3,0,3,41259,1,0,0
+Fire Plume Phoenix,4,3,3,41260,1,0,0
+Emerald Hive Queen,1,2,3,41261,1,0,0
+Giant Anaconda,7,5,3,41262,1,2,0
+Bittertide Hydra,5,8,8,41263,1,0,0
+Tortollan Primalist,8,5,4,41264,1,0,0
+Gentle Megasaur,4,5,4,41265,1,0,0
+Charged Devilsaur,8,7,7,41286,1,0,0
+Verdant Longneck,5,5,4,40971,1,2,0
+Shellshifter,4,3,3,40973,1,2,0
+Evolving Spores,4,0,0,40991,0,2,0
+Earthen Scales,1,0,0,41081,0,2,0
+Elder Longneck,3,5,1,41086,1,2,0
+Living Mana,5,0,0,41094,0,2,0
+Bright-Eyed Scout,4,3,4,41096,1,0,0
+Jungle Giants,1,0,0,41099,0,2,1
+Primalfin Totem,2,0,3,41105,1,9,0
+Fire Plume Harbinger,2,1,1,41107,1,9,0
+Glacial Shard,1,2,1,41111,1,0,0
+Stone Sentinel,7,4,4,41116,1,9,0
+"Kalimos, Primal Lord",8,7,7,41331,1,9,1
+Terrorscale Stalker,3,3,3,41304,1,5,0
+Nesting Roc,5,4,7,41305,1,0,0
+Emerald Reaver,1,2,1,41309,1,0,0
+Ultrasaur,10,7,14,41315,1,0,0
+Golakka Crawler,2,2,3,41316,1,0,0
+Stubborn Gastropod,2,1,2,41318,1,0,0
+Fire Fly,1,1,2,41323,1,0,0
+Stegodon,4,2,6,41324,1,0,0
+Sabretooth Stalker,6,8,2,41415,1,0,0
+Stormwatcher,7,4,8,41327,1,0,0
+Giant Wasp,3,2,2,41328,1,0,0
+Servant of Kalimos,5,4,5,41410,1,0,0
+Tidal Surge,4,0,0,41521,0,9,0
+Volatile Elemental,2,1,1,41524,1,0,0
+Envenom Weapon,3,0,0,41834,0,8,0
+Lakkari Sacrifice,1,0,0,41856,0,7,1
+Cruel Dinomancer,6,5,5,41869,1,7,0
+Corrupting Mist,2,0,0,41871,0,7,0
+Bloodbloom,2,0,0,41872,0,7,0
+Lakkari Felhound,4,3,8,41873,1,7,0
+Feeding Time,5,0,0,41874,0,7,0
+Chittering Tunneler,3,3,3,41875,1,7,0
+Clutchmother Zavas,2,2,2,41876,1,7,1
+Tar Lord,7,1,11,41881,1,4,0
+"Hemet, Jungle Hunter",6,6,6,41885,1,0,1
+The Voraxx,0,3,3,41913,1,0,1
+Humongous Razorleaf,3,4,8,41925,1,0,0
+Igneous Elemental,3,2,3,41926,1,0,0
+Shimmering Tempest,2,2,1,41927,1,1,0
+Blazecaller,7,6,6,41928,1,0,0
+Primordial Drake,8,4,8,41929,1,0,0
+Elise the Trailblazer,5,5,5,41935,1,0,1
+Tyrantus,10,12,12,41954,1,2,1
+Free From Amber,8,0,0,42009,0,3,0
+Hallucination,1,0,0,42011,0,8,0
+Spiritsinger Umbra,4,3,4,41289,1,0,1
+Ozruk,9,5,5,41294,1,0,1
+Grievous Bite,2,0,0,41350,0,5,0
+Jeweled Macaw,1,1,1,41353,1,5,0
+Tol'vir Warden,5,3,5,41354,1,5,0
+Raptor Hatchling,1,2,1,41357,1,5,0
+Crackling Razormaw,2,3,2,41358,1,5,0
+Stampede,1,0,0,41360,0,5,0
+Dinomancy,2,0,0,41363,0,5,0
+Swamp King Dred,7,9,9,41366,1,5,1
+The Marsh Queen,1,0,0,41368,0,5,1
+Explore Un'Goro,2,0,0,41400,0,4,0
+Iron Hide,1,0,0,41401,0,4,0
+Ornery Direhorn,6,5,5,41404,1,4,0
+Cornered Sentry,2,2,6,41406,1,4,0
+Sudden Genesis,5,0,0,41407,0,4,0
+Tar Creeper,3,1,5,41418,1,0,0
+Molten Blade,1,1,1,41420,1,4,0
+King Mosh,9,9,7,41425,1,4,1
+Fire Plume's Heart,1,0,0,41427,0,4,1
+Primalfin Lookout,3,3,2,41478,1,0,0
+Hot Spring Guardian,3,2,4,41479,1,9,0
+Awaken the Makers,1,0,0,41494,0,3,1
+Primordial Glyph,2,0,0,41496,0,1,0
+Unite the Murlocs,1,0,0,41499,0,9,1
+Gluttonous Ooze,3,3,3,41683,1,0,0
+Molten Reflection,4,0,0,41690,0,1,0
+Vinecleaver,7,4,3,41859,1,6,0
+Spikeridged Steed,6,0,0,41864,0,6,0
+Primalfin Champion,2,1,2,41866,1,6,0
+The Last Kaleidosaur,1,0,0,41868,0,6,1
+Meteor,6,0,0,41878,0,1,0
+Spirit Echo,3,0,0,41879,0,9,0
+Direhorn Hatchling,5,3,6,41890,1,4,0
+Lost in the Jungle,1,0,0,41912,0,6,0
+Adaptation,1,0,0,41944,0,6,0
+Lightfused Stegodon,4,3,4,41945,1,6,0
+Lyra the Sunshard,5,3,5,42046,1,3,1
+Majordomo Executus,9,9,7,2281,1,0,1
+Nefarian,9,8,8,2261,1,0,1
+Volcanic Lumberer,9,7,8,2295,1,2,0
+Chromaggus,8,6,8,2280,1,0,1
+Rend Blackhand,7,8,4,2308,1,0,1
+Drakonid Crusher,6,6,6,2257,1,0,0
+Emperor Thaurissan,6,5,5,2262,1,0,1
+Volcanic Drake,6,6,4,2258,1,0,0
+Dragon's Breath,5,0,0,2284,0,1,0
+Solemn Vigil,5,0,0,2274,0,6,0
+Blackwing Corruptor,5,5,4,2409,1,0,0
+Dark Iron Skulker,5,4,3,2291,1,8,0
+Dragon Consort,5,5,5,2299,1,6,0
+Grim Patron,5,3,3,2279,1,0,0
+Axe Flinger,4,2,5,2297,1,4,0
+Core Rager,4,4,4,2263,1,5,0
+Dragonkin Sorcerer,4,3,5,2306,1,0,0
+Fireguard Destroyer,4,3,6,2290,1,9,0
+Hungry Dragon,4,5,6,2283,1,0,0
+Demonwrath,3,0,0,2301,0,7,0
+Blackwing Technician,3,2,4,2408,1,0,0
+Druid of the Flame,3,2,2,2292,1,2,0
+Flamewaker,3,2,4,2275,1,1,0
+Imp Gang Boss,3,2,4,2288,1,7,0
+Gang Up,2,0,0,2304,0,8,0
+Lava Shock,2,0,0,2289,0,9,0
+Quick Shot,2,0,0,2260,0,5,0
+Resurrect,2,0,0,2298,0,3,0
+Revenge,2,0,0,2296,0,4,0
+Dragon Egg,1,0,2,2278,1,0,0
+Twilight Whelp,1,2,1,2286,1,3,0
+Kel'Thuzad,8,6,8,1794,1,0,1
+Maexxna,6,2,8,1791,1,0,1
+Feugen,5,4,7,1797,1,0,1
+Loatheb,5,5,5,1914,1,0,1
+Sludge Belcher,5,3,5,1793,1,0,0
+Spectral Knight,5,4,6,1789,1,0,0
+Stalagg,5,7,4,1796,1,0,1
+Death's Bite,4,4,2,1805,1,4,0
+Poison Seeds,4,0,0,1802,0,2,0
+Anub'ar Ambusher,4,5,5,1810,1,8,0
+Baron Rivendare,4,1,7,1915,1,0,1
+Voidcaller,4,3,4,1806,1,7,0
+Wailing Soul,4,3,5,1799,1,0,0
+Duplicate,3,0,0,1801,0,1,0
+Dancing Swords,3,4,4,1913,1,0,0
+Dark Cultist,3,3,4,1807,1,3,0
+Deathlord,3,2,8,1790,1,0,0
+Shade of Naxxramas,3,2,2,1784,1,0,0
+Stoneskin Gargoyle,3,1,4,1861,1,0,0
+Reincarnate,2,0,0,1809,0,9,0
+Echoing Ooze,2,1,2,1858,1,0,0
+Haunted Creeper,2,1,2,1781,1,0,0
+Mad Scientist,2,2,2,1783,1,0,0
+Nerub'ar Weblord,2,1,4,1800,1,0,0
+Nerubian Egg,2,0,2,1786,1,0,0
+Unstable Ghoul,2,1,3,1808,1,0,0
+Avenge,1,0,0,1804,0,6,0
+Undertaker,1,1,2,1910,1,0,0
+Webspinner,1,1,1,1860,1,5,0
+Zombie Chow,1,2,3,1753,1,0,0
+Anyfin Can Happen,10,0,0,2898,0,6,0
+Arch-Thief Rafaam,9,7,8,2964,1,0,1
+Fossilized Devilsaur,8,8,8,2945,1,0,0
+Naga Sea Witch,8,5,5,2910,1,0,0
+Everyfin is Awesome,7,0,0,3007,0,9,0
+Obsidian Destroyer,7,7,7,2881,1,4,0
+Entomb,6,0,0,3015,0,3,0
+Reno Jackson,6,4,6,2883,1,0,1
+Wobbling Runts,6,2,6,2961,1,0,0
+Excavated Evil,5,0,0,2999,0,3,0
+Anubisath Sentinel,5,4,4,2933,1,0,0
+Djinni of Zephyrs,5,4,6,2925,1,0,0
+Ethereal Conjurer,5,6,3,2875,1,1,0
+Summoning Stone,5,0,6,2958,1,0,0
+Ancient Shade,4,7,4,9081,1,0,0
+Animated Armor,4,4,4,36111,1,1,0
+Eerie Statue,4,7,7,9107,1,0,0
+Elise Starseeker,4,3,5,2951,1,0,1
+Gorillabot A-3,4,3,4,2911,1,0,0
+Jungle Moonkin,4,4,4,2923,1,2,0
+Keeper of Uldaman,4,3,4,2889,1,6,0
+Rumbling Elemental,4,2,6,2888,1,9,0
+Tomb Pillager,4,5,4,2884,1,8,0
+Tomb Spider,4,3,3,2919,1,0,0
+Forgotten Torch,3,0,0,2874,0,1,0
+Brann Bronzebeard,3,2,4,2949,1,0,1
+Desert Camel,3,2,4,2892,1,5,0
+Fierce Monkey,3,3,4,2894,1,4,0
+Mounted Raptor,3,3,2,2922,1,2,0
+Unearthed Raptor,3,3,4,2891,1,8,0
+Curse of Rafaam,2,0,0,2879,0,7,0
+Dart Trap,2,0,0,2893,0,5,0
+Explorer's Hat,2,0,0,3001,0,5,0
+Dark Peddler,2,2,2,2895,1,7,0
+Huge Toad,2,3,2,2918,1,0,0
+Jeweled Scarab,2,1,1,2901,1,0,0
+Museum Curator,2,1,2,2878,1,3,0
+Cursed Blade,1,2,3,35025,1,4,0
+Raven Idol,1,0,0,13335,0,2,0
+Sacred Trial,1,0,0,2899,0,6,0
+Pit Snake,1,2,1,2882,1,8,0
+Reliquary Seeker,1,1,1,13334,1,7,0
+Sir Finley Mrrgglton,1,1,3,2948,1,0,1
+Tunnel Trogg,1,1,3,2890,1,9,0
+Murloc Tinyfin,0,1,1,13879,1,0,0
+Arcane Giant,12,8,8,39426,1,0,0
+"Medivh, the Guardian",8,7,7,39841,1,0,1
+Firelands Portal,7,0,0,39715,0,1,0
+The Curator,7,4,6,39225,1,0,1
+Moonglade Portal,6,0,0,39714,0,2,0
+Book Wyrm,6,3,6,39210,1,0,0
+Ivory Knight,6,4,4,39439,1,6,0
+Menagerie Warden,6,5,5,39696,1,2,0
+Moat Lurker,6,3,3,39465,1,0,0
+Fool's Bane,5,3,4,39417,1,4,0
+Ironforge Portal,5,0,0,39747,0,4,0
+Kara Kazham!,5,0,0,39197,0,7,0
+Avian Watcher,5,3,6,39489,1,0,0
+Ethereal Peddler,5,5,6,39700,1,8,0
+Menagerie Magician,5,4,4,39269,1,0,0
+Onyx Bishop,5,3,4,39374,1,3,0
+Prince Malchezaar,5,5,6,39840,1,0,1
+Silvermoon Portal,4,0,0,39716,0,6,0
+Arcanosmith,4,3,2,39491,1,0,0
+Barnes,4,3,4,39941,1,0,1
+Priest of the Feast,4,3,6,39442,1,3,0
+Wicked Witchdoctor,4,3,4,39190,1,9,0
+Protect the King!,3,0,0,39495,0,4,0
+Cloaked Huntress,3,3,4,39492,1,5,0
+Deadly Fork,3,3,2,39822,1,8,0
+Moroes,3,1,1,39453,1,0,1
+Nightbane Templar,3,2,3,39477,1,6,0
+Pantry Spider,3,1,3,39207,1,0,0
+Silverware Golem,3,3,3,39380,1,7,0
+Violet Illusionist,3,4,3,39313,1,0,0
+Zoobot,3,3,3,39839,1,0,0
+Spirit Claws,2,1,3,39694,1,9,0
+Cat Trick,2,0,0,39160,0,5,0
+Maelstrom Portal,2,0,0,39712,0,9,0
+Purify,2,0,0,39468,0,3,0
+Kindly Grandmother,2,1,1,39481,1,5,0
+Medivh's Valet,2,2,3,39767,1,1,0
+Netherspite Historian,2,1,3,39554,1,0,0
+Pompous Thespian,2,3,2,39476,1,0,0
+Arcane Anomaly,1,2,1,39215,1,0,0
+Babbling Book,1,1,1,39169,1,1,0
+Enchanted Raven,1,2,2,39350,1,2,0
+Malchezaar's Imp,1,1,3,39740,1,7,0
+Runic Egg,1,0,2,39433,1,0,0
+Swashburglar,1,1,1,39698,1,8,0
