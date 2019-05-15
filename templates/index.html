@@ -1,9 +1,14 @@
+<!DOCTYPE html>
+<title>Random Hearthstone Deckbuilder</title>
+<link rel="stylesheet" href="/static/css/main.css">
+<img src="/static/yoggmage.png" alt="Pic of Mage deck."> 
 <form action="/yoggcode/" method="post">
-	<button name="forwardBtn" type="submit">Make a deck</button>
+	<button name="forwardBtn" type="submit" onclick="myFunction()">Make a deck</button>
 	&#10;&#13;
 	Yogg Mage Deckcode: {{ value }}
 </form>
-<form action="/druidcode/" method="post">
+<img src="/static/bigdruid.png" alt="Pic of Druid deck."> 
+<form action="/bigdruidcode/" method="post">
 	<button name="forwardBtn2" type="submit">Make a deck</button>
 	&#10;&#13;
 	Big Druid Deckcode: {{ value2 }}
